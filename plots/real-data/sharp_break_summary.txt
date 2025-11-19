@@ -1,0 +1,21 @@
+SHARP BREAK DETECTION - SUMMARY
+======================================================================
+
+Data: G79.29+0.46 temperature profile
+Points: 10
+
+Method Results:
+  Method 1                      : r_c = 0.900 pc
+  Method 2                      : r_c = 0.900 pc
+  Method 3                      : r_c = 0.300 pc
+  Method 4                      : r_c = 0.900 pc
+
+Consensus:
+  Mean: r_c = 0.750 ± 0.260 pc
+  Range: 0.300 - 0.900 pc
+
+Physical Interpretation:
+  Critical radius: r_c ~ 0.75 pc
+  Inner domain (r<r_c): g₂ (collapse active)
+  Outer domain (r>r_c): g₁ (stable)
+  Transition: Sharp (piecewise model required)

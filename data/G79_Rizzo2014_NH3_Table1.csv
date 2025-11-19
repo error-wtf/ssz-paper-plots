@@ -1,0 +1,4 @@
+component,v_min_kms,v_max_kms,Trot_K,Trot_err_K,N_NH3_cm2,N_NH3_err_cm2,Trot_limit_type
+Central,0.3,1.9,11,2.0,1700000000000000.0,200000000000000.0,measured
+Blue,-1.7,0.3,40,,1500000000000.0,,lower_limit
+Red,1.9,2.8,28,,1500000000000.0,,lower_limit
