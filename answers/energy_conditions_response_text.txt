@@ -1,0 +1,37 @@
+Response to "Negative Gravitational Energy Density" Criticism
+
+In our SSZ metric we explicitly compute the effective stress-energy of the geometric 
+field for a real object (Sgr A*). The plot below shows ρ, p_r and p_⊥ versus r/r_s.
+
+There is a small region near 1.2 r_s where the effective ρ becomes negative and the 
+standard energy conditions fail – exactly the "negative gravitational energy" you 
+refer to.
+
+But this region is strictly local and bounded: by 10 r_s, ρ is already positive 
+again and all energy conditions (WEC, DEC, SEC, NEC) are satisfied, with ρ several 
+orders of magnitude below any "cosmic" value.
+
+So the effect is a local property of strong-field geometry, not a universal cosmic 
+energy density that hides stellar mass or mimics dark matter.
+
+Key Results from SSZ for Sgr A*:
+- At r ≈ 1.2 r_s: ρ ≈ -5.96×10⁻²³ kg/m³ (negative, local effect)
+- At r = 10 r_s: ρ ≈ +9.4×10⁻²⁷ kg/m³ (positive, 4 orders smaller)
+- At r ≥ 10 r_s: All standard energy conditions satisfied
+- Negative energy confined to r < 5 r_s (strong-field region)
+
+This is fundamentally different from a cosmic background that would:
+- Extend to infinity
+- Have constant or slowly-varying density
+- Sum up to observable effects on galactic scales
+
+Our negative energy is:
+- Localized near the Schwarzschild radius
+- Bounded in extent
+- Returns to positive values at modest distances
+- Several orders of magnitude too small to affect stellar dynamics
+
+The plot demonstrates this directly.
+
+© 2025 Lino Casu, Carmen Wrede
+Licensed under ANTI-CAPITALIST SOFTWARE LICENSE v1.4
