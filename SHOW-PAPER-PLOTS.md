@@ -2,7 +2,7 @@
 
 **17 curated plots with peer-reviewed observational data for papers and presentations**
 
-> **📚 For complete collection:** See [SHOW-ALL-PLOTS.md](SHOW-ALL-PLOTS.md) for ALL 570+ plots in repository
+> **📚 For complete collection:** See [SHOW-ALL-PLOTS-VISUAL.md](SHOW-ALL-PLOTS-VISUAL.md) for ALL 570+ plots displayed visually
 
 [![License](https://img.shields.io/badge/License-Anti--Capitalist-red.svg)](LICENSE)
 [![Data](https://img.shields.io/badge/Data-Peer--Reviewed-brightgreen.svg)]()
@@ -15,7 +15,7 @@
 This document presents **17 publication-ready plots** with detailed descriptions, generated from **100% peer-reviewed observational data**:
 
 > **💡 Looking for something else?**
-> - 📚 [SHOW-ALL-PLOTS.md](SHOW-ALL-PLOTS.md) - Complete catalog of ALL 570+ plots
+> - 📚 [SHOW-ALL-PLOTS-VISUAL.md](SHOW-ALL-PLOTS-VISUAL.md) - Complete visual gallery of ALL 570+ plots
 > - 📖 [README.md](README.md) - Repository overview and quick start
 > - 🔬 [SHARP_BREAK_SOLUTION.md](SHARP_BREAK_SOLUTION.md) - Detailed sharp break analysis
 
@@ -703,7 +703,7 @@ If you find these plots useful, please ⭐ star the repository!
 
 ## 🔗 Quick Links
 
-- 📚 [SHOW-ALL-PLOTS.md](SHOW-ALL-PLOTS.md) - ALL 570+ plots catalog
+- 📚 [SHOW-ALL-PLOTS-VISUAL.md](SHOW-ALL-PLOTS-VISUAL.md) - ALL 570+ plots visual gallery
 - 📖 [README.md](README.md) - Repository overview
 - 🔬 [SHARP_BREAK_SOLUTION.md](SHARP_BREAK_SOLUTION.md) - Sharp break details
 - 📊 [SCIENTIFIC_RESULTS.md](docs/SCIENTIFIC_RESULTS.md) - Complete findings
@@ -718,7 +718,7 @@ If you find these plots useful, please ⭐ star the repository!
 
 <p align="center">
   <a href="https://github.com/error-wtf/ssz-paper-plots">Repository</a> •
-  <a href="SHOW-ALL-PLOTS.md">All Plots</a> •
+  <a href="SHOW-ALL-PLOTS-VISUAL.md">All Plots</a> •
   <a href="README.md">README</a> •
   <a href="docs/QUICKSTART.md">Quick Start</a>
 </p>
