@@ -15,9 +15,9 @@
 <p align="center">
   <a href="#-main-results">Results</a> •
   <a href="#-quick-start">Quick Start</a> •
-  <a href="SHOW-ALL-PLOTS.md">📸 All Plots</a> •
-  <a href="#-documentation">Docs</a> •
-  <a href="#-citation">Citation</a>
+  <a href="SHOW-PAPER-PLOTS.md">📸 Paper Plots</a> •
+  <a href="SHOW-ALL-PLOTS.md">📚 All Plots</a> •
+  <a href="#-documentation">Docs</a>
 </p>
 
 ---
@@ -96,7 +96,9 @@ python generate_all_real_data_plots_master.py
 - ✅ 2 theoretical framework plots
 - ✅ All with 100% peer-reviewed observational backing
 
-**Next:** Explore [SHOW-ALL-PLOTS.md](SHOW-ALL-PLOTS.md) for complete documentation of each plot.
+**Next Steps:**
+- 📸 [SHOW-PAPER-PLOTS.md](SHOW-PAPER-PLOTS.md) - Detailed descriptions of 17 paper-ready plots
+- 📚 [SHOW-ALL-PLOTS.md](SHOW-ALL-PLOTS.md) - Complete catalog of all 570+ plots
 
 ---
 
@@ -794,9 +796,10 @@ Want to collaborate on multi-object studies?
 
 <p align="center">
   <a href="https://github.com/error-wtf/ssz-paper-plots">Repository</a> •
+  <a href="SHOW-PAPER-PLOTS.md">Paper Plots</a> •
   <a href="SHOW-ALL-PLOTS.md">All Plots</a> •
   <a href="docs/QUICKSTART.md">Quick Start</a> •
-  <a href="docs/SCIENTIFIC_RESULTS.md">Scientific Results</a>
+  <a href="docs/SCIENTIFIC_RESULTS.md">Results</a>
 </p>
 
 <p align="center">

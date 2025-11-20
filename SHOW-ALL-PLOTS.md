@@ -14,7 +14,12 @@ This document catalogs **ALL 570+ plots** in this repository, organized by categ
 
 ### Quick Navigation
 
-- **[Paper-Ready Plots](SHOW-PAPER-PLOTS.md)** - 17 publication-ready plots with peer-reviewed data
+> **💡 Just need paper-ready plots?**  
+> 👉 **[SHOW-PAPER-PLOTS.md](SHOW-PAPER-PLOTS.md)** - 17 curated plots with detailed descriptions for publications
+
+---
+
+### Navigate by Category:
 - **[Real Data Validation](#-real-data-validation-9-plots)** - G79 observational data plots
 - **[Sharp Break Analysis](#-sharp-break-analysis-6-plots)** - Sharp transition detection
 - **[Unified Results](#-unified-results-331-plots)** - Complete validation suite
@@ -469,12 +474,35 @@ Total Repository:      ~70-90 MB (570+ plots)
 
 ---
 
-© 2025 Carmen Wrede, Lino Casu  
-Licensed under ANTI-CAPITALIST SOFTWARE LICENSE v1.4
+---
 
-**Last Updated:** 2025-11-20  
-**Total Plots:** 570+  
-**Repository:** https://github.com/error-wtf/ssz-paper-plots
+## 🔗 Quick Links
+
+- 📸 [SHOW-PAPER-PLOTS.md](SHOW-PAPER-PLOTS.md) - 17 paper-ready plots
+- 📖 [README.md](README.md) - Repository overview
+- 🔬 [SHARP_BREAK_SOLUTION.md](SHARP_BREAK_SOLUTION.md) - Sharp break analysis
+- 📊 [SCIENTIFIC_RESULTS.md](docs/SCIENTIFIC_RESULTS.md) - Scientific findings
+- 🚀 [QUICKSTART.md](docs/QUICKSTART.md) - Quick start guide
+
+---
+
+<p align="center">
+  <strong>© 2025 Carmen Wrede, Lino Casu</strong><br>
+  Licensed under <a href="LICENSE">ANTI-CAPITALIST SOFTWARE LICENSE v1.4</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/error-wtf/ssz-paper-plots">Repository</a> •
+  <a href="SHOW-PAPER-PLOTS.md">Paper Plots</a> •
+  <a href="README.md">README</a> •
+  <a href="docs/QUICKSTART.md">Quick Start</a>
+</p>
+
+<p align="center">
+  <strong>Last Updated:</strong> 2025-11-20 •
+  <strong>Total Plots:</strong> 570+ •
+  <strong>Status:</strong> Complete
+</p>
 
 ---
 

@@ -12,7 +12,16 @@
 
 ## 📊 Overview
 
-This repository contains **15 high-resolution plots** generated from **100% peer-reviewed observational data**:
+This document presents **17 publication-ready plots** with detailed descriptions, generated from **100% peer-reviewed observational data**:
+
+> **💡 Looking for something else?**
+> - 📚 [SHOW-ALL-PLOTS.md](SHOW-ALL-PLOTS.md) - Complete catalog of ALL 570+ plots
+> - 📖 [README.md](README.md) - Repository overview and quick start
+> - 🔬 [SHARP_BREAK_SOLUTION.md](SHARP_BREAK_SOLUTION.md) - Detailed sharp break analysis
+
+---
+
+### Data Sources:
 - **G79.29+0.46** temperature profile (Di Francesco+ 2010, ApJ)
 - **NH₃ velocity components** (Rizzo+ 2014, A&A)
 - **X-ray binary** radio observations (Fender+ 2004, Russell+ 2010, MNRAS)
@@ -690,10 +699,38 @@ If you find these plots useful, please ⭐ star the repository!
 
 ---
 
-© 2025 Carmen Wrede, Lino Casu  
-Licensed under ANTI-CAPITALIST SOFTWARE LICENSE v1.4
+---
 
-**Repository:** https://github.com/error-wtf/ssz-paper-plots  
-**Last Updated:** 2025-11-20  
-**Plot Count:** 17 plots  
-**Status:** Production Ready ✅
+## 🔗 Quick Links
+
+- 📚 [SHOW-ALL-PLOTS.md](SHOW-ALL-PLOTS.md) - ALL 570+ plots catalog
+- 📖 [README.md](README.md) - Repository overview
+- 🔬 [SHARP_BREAK_SOLUTION.md](SHARP_BREAK_SOLUTION.md) - Sharp break details
+- 📊 [SCIENTIFIC_RESULTS.md](docs/SCIENTIFIC_RESULTS.md) - Complete findings
+- 📄 [NUMERICAL_FIT_VS_PHYSICAL_REALITY.md](docs/NUMERICAL_FIT_VS_PHYSICAL_REALITY.md) - R² vs Physics
+
+---
+
+<p align="center">
+  <strong>© 2025 Carmen Wrede, Lino Casu</strong><br>
+  Licensed under <a href="LICENSE">ANTI-CAPITALIST SOFTWARE LICENSE v1.4</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/error-wtf/ssz-paper-plots">Repository</a> •
+  <a href="SHOW-ALL-PLOTS.md">All Plots</a> •
+  <a href="README.md">README</a> •
+  <a href="docs/QUICKSTART.md">Quick Start</a>
+</p>
+
+<p align="center">
+  <strong>Last Updated:</strong> 2025-11-20 •
+  <strong>Plot Count:</strong> 17 paper-ready •
+  <strong>Status:</strong> Production Ready ✅
+</p>
+
+---
+
+<p align="center">
+  <strong>Peer-reviewed data • Publication-ready plots • Ready for science</strong>
+</p>
