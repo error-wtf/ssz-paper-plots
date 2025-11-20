@@ -1,6 +1,6 @@
 # SSZ Paper-Ready Plots - Publication Gallery
 
-**17 curated plots with peer-reviewed observational data for papers and presentations**
+**18 curated plots with peer-reviewed observational data for papers and presentations**
 
 > **📚 For complete collection:** See [SHOW-ALL-PLOTS-VISUAL.md](SHOW-ALL-PLOTS-VISUAL.md) for ALL 570+ plots displayed visually
 
@@ -12,7 +12,7 @@
 
 ## 📊 Overview
 
-This document presents **17 publication-ready plots** with detailed descriptions, generated from **100% peer-reviewed observational data**:
+This document presents **18 publication-ready plots** with detailed descriptions, generated from **100% peer-reviewed observational data**:
 
 > **💡 Looking for something else?**
 > - 📚 [SHOW-ALL-PLOTS-VISUAL.md](SHOW-ALL-PLOTS-VISUAL.md) - Complete visual gallery of ALL 570+ plots
@@ -535,24 +535,25 @@ Identical to Plot 14 - included in `real-data/` folder for easy access alongside
 ### By Category:
 ```
 Real Data Plots:        8 plots  (1.3 MB)
-Sharp Break Analysis:   7 plots  (1.3 MB)
-Context/Framework:      2 plots  (0.9 MB)
+Sharp Break Analysis:   6 plots  (1.1 MB)
+Statistical Analysis:   1 plot   (0.2 MB)  ← χ² Splitting
+G79 Cygnus Detailed:    3 plots  (0.9 MB)
 ─────────────────────────────────────
-Total:                 17 plots  (3.5 MB)
+Total:                 18 plots  (3.5 MB)
 ```
 
 ### By Data Type:
 ```
-100% Peer-Reviewed:    15 plots  (Real data + Sharp break)
-Theoretical Framework:  2 plots  (Context plots)
+100% Peer-Reviewed:    17 plots  (Real data + Sharp break + Statistical)
+Theoretical Framework:  1 plot   (Context)
 ```
 
 ### By Use Case:
 ```
-Main Paper Figures:     5 plots  (Plots 4, 7, 9, 12, 14)
+Main Paper Figures:     6 plots  (Plots 4, 7, 9, 12, 14, 18) ← χ²
 Supporting Figures:     8 plots  (Plots 1-3, 5-6, 8, 10-11)
-Technical Analysis:     2 plots  (Plots 13, 15)
-Context:                2 plots  (Framework plots)
+G79 Detailed:           3 plots  (Plots 15-17)
+Technical Analysis:     1 plot   (Plot 13)
 ```
 
 ---
@@ -567,14 +568,15 @@ Context:                2 plots  (Framework plots)
 ### Highly Recommended:
 4. **Plot 7** - Piecewise 4-Panel (paper model) ⭐⭐
 5. **Plot 14** - Sharp Break Detection (comprehensive) ⭐⭐
-6. **Plot 8** - Radiowave Precursor Predictions ⭐⭐
+6. **Plot 18** - χ² Domain Splitting (critical methodology) ⭐⭐
+7. **Plot 8** - Radiowave Precursor Predictions ⭐⭐
 
 ### Supporting/Optional:
-7. Plot 1 - Collapse Rate
-8. Plot 2 - Coherence Evolution
-9. Plot 10 - Model Fit Comparison
+8. Plot 1 - Collapse Rate
+9. Plot 2 - Coherence Evolution
+10. Plot 10 - Model Fit Comparison
 
-**Total Recommended:** 6-9 figures for comprehensive paper
+**Total Recommended:** 7-10 figures for comprehensive paper
 
 ---
 
@@ -790,7 +792,7 @@ If you find these plots useful, please ⭐ star the repository!
 
 <p align="center">
   <strong>Last Updated:</strong> 2025-11-20 •
-  <strong>Plot Count:</strong> 17 paper-ready •
+  <strong>Plot Count:</strong> 18 paper-ready •
   <strong>Status:</strong> Production Ready ✅
 </p>
 
