@@ -98,6 +98,20 @@ python generate_all_real_data_plots_master.py
 
 ---
 
+## 🔗 Related Work
+
+This repository is part of the **SSZ Theory ecosystem**. For extended analysis and theoretical context, see:
+
+- 🔬 [g79-cygnus-tests](https://github.com/error-wtf/g79-cygnus-tests) - G79 observational data
+- 🧮 [ssz-metric-pure](https://github.com/error-wtf/ssz-metric-pure) - Core metric calculations
+- 🌌 [emergent-spacetime](https://github.com/error-wtf/emergent-spacetime) - Theoretical foundation
+- 📊 [Segmented-Spacetime-Mass-Projection-Unified-Results](https://github.com/error-wtf/Segmented-Spacetime-Mass-Projection-Unified-Results) - Validation suite
+- 🔭 [SEGMENTED_SPACETIME](https://github.com/error-wtf/SEGMENTED_SPACETIME) - Main theory repo
+
+> **Note:** This repository is **standalone** - all necessary data is included. External repos provide additional context.
+
+---
+
 ## 📁 Repository Structure
 
 ```
@@ -617,9 +631,15 @@ See [CONTRIBUTORS.md](CONTRIBUTORS.md) for full list
 
 ### Related Repositories
 
-- **[ssz-metric-pure](https://github.com/yourorg/ssz-metric-pure)** - Core metric implementation
-- **[g79-cygnus-test](https://github.com/yourorg/g79-cygnus-test)** - Extended G79 analysis
-- **[ssz-unified-results](https://github.com/yourorg/ssz-unified-results)** - Full test suite
+This work builds upon and integrates data from:
+
+- 🔬 **[g79-cygnus-tests](https://github.com/error-wtf/g79-cygnus-tests)** - G79.29+0.46 observational data & analysis
+- 🧮 **[ssz-metric-pure](https://github.com/error-wtf/ssz-metric-pure)** - Pure SSZ metric implementation & core calculations
+- 🌌 **[emergent-spacetime](https://github.com/error-wtf/emergent-spacetime)** - Emergent spacetime framework & theoretical foundation
+- 📊 **[Segmented-Spacetime-Mass-Projection-Unified-Results](https://github.com/error-wtf/Segmented-Spacetime-Mass-Projection-Unified-Results)** - Complete validation suite & mass-projection analysis
+- 🔭 **[SEGMENTED_SPACETIME](https://github.com/error-wtf/SEGMENTED_SPACETIME)** - Main SSZ theory repository & documentation
+
+**Note:** This repository (`ssz-paper-plots`) is **standalone** and includes all necessary data locally. The above repositories provide extended analysis and theoretical context.
 
 ---
 
