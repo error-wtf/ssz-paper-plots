@@ -34,26 +34,24 @@ def load_rizzo_nh3_data(base_path=None):
         DataFrame with velocity components and temperatures
     """
     if base_path is None:
-        # Try g79-cygnus-test directory
-        g79_path = Path(__file__).parent.parent / "g79-cygnus-test"
-        if not g79_path.exists():
-            # Try sibling directory
-            g79_path = Path(__file__).parent.parent.parent / "g79-cygnus-test"
-        
-        rizzo_file = g79_path / "G79_Rizzo2014_NH3_Table1.csv"
-        if rizzo_file.exists():
-            df = pd.read_csv(rizzo_file)
-            return df
+        # PRIORITY 1: Local data/ folder (standalone)
+        local_file = Path(__file__).parent / "data" / "G79_Rizzo2014_NH3_Table1.csv"
+        if local_file.exists():
+            base_path = local_file
         else:
-            print(f"⚠ Rizzo data not found at {rizzo_file}")
-            return None
-    else:
-        rizzo_file = Path(base_path) / "G79_Rizzo2014_NH3_Table1.csv"
-        if rizzo_file.exists():
-            return pd.read_csv(rizzo_file)
-        else:
-            print(f"⚠ Rizzo data not found at {rizzo_file}")
-            return None
+            # FALLBACK: Try external g79-cygnus-test directory
+            g79_path = Path(__file__).parent.parent / "g79-cygnus-test"
+            if not g79_path.exists():
+                g79_path = Path(__file__).parent.parent.parent / "g79-cygnus-test"
+            
+            rizzo_file = g79_path / "G79_Rizzo2014_NH3_Table1.csv"
+            if rizzo_file.exists():
+                base_path = rizzo_file
+            else:
+                raise FileNotFoundError("Could not find Rizzo 2014 NH3 data. Please ensure data/G79_Rizzo2014_NH3_Table1.csv exists")
+    
+    df = pd.read_csv(base_path)
+    return df
 
 def load_g79_radio_predictions(base_path=None):
     """
@@ -63,26 +61,25 @@ def load_g79_radio_predictions(base_path=None):
         DataFrame with radio redshift predictions
     """
     if base_path is None:
-        g79_path = Path(__file__).parent.parent / "g79-cygnus-test"
-        if not g79_path.exists():
-            g79_path = Path(__file__).parent.parent.parent / "g79-cygnus-test"
-        
-        radio_file = g79_path / "G79_radio_predictions.csv"
-        if radio_file.exists():
-            # Skip comment lines starting with #
-            df = pd.read_csv(radio_file, comment='#')
-            return df
+        # PRIORITY 1: Local data/ folder (standalone)
+        local_file = Path(__file__).parent / "data" / "G79_radio_predictions.csv"
+        if local_file.exists():
+            base_path = local_file
         else:
-            print(f"⚠ Radio predictions not found at {radio_file}")
-            return None
-    else:
-        radio_file = Path(base_path) / "G79_radio_predictions.csv"
-        if radio_file.exists():
-            df = pd.read_csv(radio_file, comment='#')
-            return df
-        else:
-            print(f"⚠ Radio predictions not found at {radio_file}")
-            return None
+            # FALLBACK: Try external g79-cygnus-test directory
+            g79_path = Path(__file__).parent.parent / "g79-cygnus-test"
+            if not g79_path.exists():
+                g79_path = Path(__file__).parent.parent.parent / "g79-cygnus-test"
+            
+            radio_file = g79_path / "G79_radio_predictions.csv"
+            if radio_file.exists():
+                base_path = radio_file
+            else:
+                raise FileNotFoundError("Could not find G79 radio predictions. Please ensure data/G79_radio_predictions.csv exists")
+    
+    # Skip comment lines starting with #
+    df = pd.read_csv(base_path, comment='#')
+    return df
 
 def calculate_observational_support():
     """

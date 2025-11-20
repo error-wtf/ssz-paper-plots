@@ -3,12 +3,9 @@
 """
 Plot Module: Collapse Rate C(Xi) - Real Data
 
- 2025 Carmen Wrede, Lino Casu
-Licensed under ANTI-CAPITALIST SOFTWARE LICENSE v1.4
-"""
-
 © 2025 Carmen Wrede, Lino Casu
 Licensed under ANTI-CAPITALIST SOFTWARE LICENSE v1.4
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 
