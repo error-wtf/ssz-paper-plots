@@ -1,0 +1,2282 @@
+[
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\coherence_collapse_dynamics.png",
+    "RelativePath": "plots/coherence_collapse_dynamics.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\nested_submetric_analysis.png",
+    "RelativePath": "plots/nested_submetric_analysis.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\additional_1.png",
+    "RelativePath": "plots/additional/additional_1.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\additional_10.png",
+    "RelativePath": "plots/additional/additional_10.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\additional_2.png",
+    "RelativePath": "plots/additional/additional_2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\additional_3.png",
+    "RelativePath": "plots/additional/additional_3.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\additional_4.png",
+    "RelativePath": "plots/additional/additional_4.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\additional_5.png",
+    "RelativePath": "plots/additional/additional_5.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\additional_6.png",
+    "RelativePath": "plots/additional/additional_6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\additional_7.png",
+    "RelativePath": "plots/additional/additional_7.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\additional_8.png",
+    "RelativePath": "plots/additional/additional_8.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\additional_9.png",
+    "RelativePath": "plots/additional/additional_9.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\continuity_1.png",
+    "RelativePath": "plots/additional/continuity_1.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\continuity_2.png",
+    "RelativePath": "plots/additional/continuity_2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\continuity_3.png",
+    "RelativePath": "plots/additional/continuity_3.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\continuity_4.png",
+    "RelativePath": "plots/additional/continuity_4.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\continuity_5.png",
+    "RelativePath": "plots/additional/continuity_5.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\continuity_6.png",
+    "RelativePath": "plots/additional/continuity_6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\continuity_7.png",
+    "RelativePath": "plots/additional/continuity_7.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\continuity_8.png",
+    "RelativePath": "plots/additional/continuity_8.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\curvature_1.png",
+    "RelativePath": "plots/additional/curvature_1.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\curvature_2.png",
+    "RelativePath": "plots/additional/curvature_2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\curvature_3.png",
+    "RelativePath": "plots/additional/curvature_3.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\curvature_4.png",
+    "RelativePath": "plots/additional/curvature_4.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\curvature_5.png",
+    "RelativePath": "plots/additional/curvature_5.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\curvature_6.png",
+    "RelativePath": "plots/additional/curvature_6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\curvature_7.png",
+    "RelativePath": "plots/additional/curvature_7.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\curvature_8.png",
+    "RelativePath": "plots/additional/curvature_8.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\energy_1.png",
+    "RelativePath": "plots/additional/energy_1.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\energy_10.png",
+    "RelativePath": "plots/additional/energy_10.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\energy_11.png",
+    "RelativePath": "plots/additional/energy_11.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\energy_2.png",
+    "RelativePath": "plots/additional/energy_2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\energy_3.png",
+    "RelativePath": "plots/additional/energy_3.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\energy_4.png",
+    "RelativePath": "plots/additional/energy_4.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\energy_5.png",
+    "RelativePath": "plots/additional/energy_5.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\energy_6.png",
+    "RelativePath": "plots/additional/energy_6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\energy_7.png",
+    "RelativePath": "plots/additional/energy_7.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\energy_8.png",
+    "RelativePath": "plots/additional/energy_8.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\energy_9.png",
+    "RelativePath": "plots/additional/energy_9.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\ppn_beta.png",
+    "RelativePath": "plots/additional/ppn_beta.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\ppn_combined.png",
+    "RelativePath": "plots/additional/ppn_combined.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\ppn_gamma.png",
+    "RelativePath": "plots/additional/ppn_gamma.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\proper_time_2.png",
+    "RelativePath": "plots/additional/proper_time_2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\proper_time_3.png",
+    "RelativePath": "plots/additional/proper_time_3.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\proper_time_4.png",
+    "RelativePath": "plots/additional/proper_time_4.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\proper_time_5.png",
+    "RelativePath": "plots/additional/proper_time_5.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\proper_time_6.png",
+    "RelativePath": "plots/additional/proper_time_6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\proper_time_7.png",
+    "RelativePath": "plots/additional/proper_time_7.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\proper_time.png",
+    "RelativePath": "plots/additional/proper_time.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\qnm_2.png",
+    "RelativePath": "plots/additional/qnm_2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\qnm_3.png",
+    "RelativePath": "plots/additional/qnm_3.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\qnm_4.png",
+    "RelativePath": "plots/additional/qnm_4.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\qnm_frequency.png",
+    "RelativePath": "plots/additional/qnm_frequency.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\shadow_10.png",
+    "RelativePath": "plots/additional/shadow_10.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\shadow_2.png",
+    "RelativePath": "plots/additional/shadow_2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\shadow_3.png",
+    "RelativePath": "plots/additional/shadow_3.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\shadow_4.png",
+    "RelativePath": "plots/additional/shadow_4.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\shadow_5.png",
+    "RelativePath": "plots/additional/shadow_5.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\shadow_6.png",
+    "RelativePath": "plots/additional/shadow_6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\shadow_7.png",
+    "RelativePath": "plots/additional/shadow_7.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\shadow_8.png",
+    "RelativePath": "plots/additional/shadow_8.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\shadow_9.png",
+    "RelativePath": "plots/additional/shadow_9.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\shadow_vs_mass.png",
+    "RelativePath": "plots/additional/shadow_vs_mass.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\analysis\\key_performance_heatmap.png",
+    "RelativePath": "plots/additional/analysis/key_performance_heatmap.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\analysis\\key_phi_geometry_impact.png",
+    "RelativePath": "plots/additional/analysis/key_phi_geometry_impact.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\analysis\\key_stratification_robustness.png",
+    "RelativePath": "plots/additional/analysis/key_stratification_robustness.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\analysis\\key_stratified_performance.png",
+    "RelativePath": "plots/additional/analysis/key_stratified_performance.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\analysis\\key_winrate_vs_radius.png",
+    "RelativePath": "plots/additional/analysis/key_winrate_vs_radius.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\eso\\eso_breakthrough_results.png",
+    "RelativePath": "plots/additional/eso/eso_breakthrough_results.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\eso\\eso_data_quality_impact.png",
+    "RelativePath": "plots/additional/eso/eso_data_quality_impact.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\eso\\eso_phi_geometry_impact.png",
+    "RelativePath": "plots/additional/eso/eso_phi_geometry_impact.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\eso\\eso_vs_mixed_regimes.png",
+    "RelativePath": "plots/additional/eso/eso_vs_mixed_regimes.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79\\g79_energy_release.png",
+    "RelativePath": "plots/additional/g79/g79_energy_release.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79\\g79_multi_shell_structure.png",
+    "RelativePath": "plots/additional/g79/g79_multi_shell_structure.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79\\g79_nebulae_comparison.png",
+    "RelativePath": "plots/additional/g79/g79_nebulae_comparison.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79\\g79_summary_dashboard.png",
+    "RelativePath": "plots/additional/g79/g79_summary_dashboard.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\energy_release_results_energy_release_mechanism.png",
+    "RelativePath": "plots/additional/g79-cygnus/energy_release_results_energy_release_mechanism.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\final_highlights_Highlight1_Temporal_Density_Framework.png",
+    "RelativePath": "plots/additional/g79-cygnus/final_highlights_Highlight1_Temporal_Density_Framework.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\final_highlights_Highlight2_Observational_Evidence.png",
+    "RelativePath": "plots/additional/g79-cygnus/final_highlights_Highlight2_Observational_Evidence.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\final_highlights_Highlight3_Model_Validation.png",
+    "RelativePath": "plots/additional/g79-cygnus/final_highlights_Highlight3_Model_Validation.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\G79_gamma_seg_fit.png",
+    "RelativePath": "plots/additional/g79-cygnus/G79_gamma_seg_fit.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\G79_mass_profile.png",
+    "RelativePath": "plots/additional/g79-cygnus/G79_mass_profile.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\G79_radio_predictions.png",
+    "RelativePath": "plots/additional/g79-cygnus/G79_radio_predictions.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\paper_figures_Fig1_gamma_seg_profile.png",
+    "RelativePath": "plots/additional/g79-cygnus/paper_figures_Fig1_gamma_seg_profile.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\paper_figures_Fig2_temperature_stratification.png",
+    "RelativePath": "plots/additional/g79-cygnus/paper_figures_Fig2_temperature_stratification.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\paper_figures_Fig3_velocity_excess.png",
+    "RelativePath": "plots/additional/g79-cygnus/paper_figures_Fig3_velocity_excess.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\paper_figures_Fig4_core_mass_derivation.png",
+    "RelativePath": "plots/additional/g79-cygnus/paper_figures_Fig4_core_mass_derivation.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\paper_figures_Fig5_radio_redshift.png",
+    "RelativePath": "plots/additional/g79-cygnus/paper_figures_Fig5_radio_redshift.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\paper_figures_Fig6_energy_release.png",
+    "RelativePath": "plots/additional/g79-cygnus/paper_figures_Fig6_energy_release.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\paper_figures_Fig7_multi_shell_structure.png",
+    "RelativePath": "plots/additional/g79-cygnus/paper_figures_Fig7_multi_shell_structure.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\paper_figures_Fig8_nebulae_comparison.png",
+    "RelativePath": "plots/additional/g79-cygnus/paper_figures_Fig8_nebulae_comparison.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\paper_figures_Fig9_summary_dashboard.png",
+    "RelativePath": "plots/additional/g79-cygnus/paper_figures_Fig9_summary_dashboard.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\paper_style_figures_Figure1_Temporal_Density_Framework.png",
+    "RelativePath": "plots/additional/g79-cygnus/paper_style_figures_Figure1_Temporal_Density_Framework.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\paper_style_figures_Figure2_Dual_Frame_Thermodynamics.png",
+    "RelativePath": "plots/additional/g79-cygnus/paper_style_figures_Figure2_Dual_Frame_Thermodynamics.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\paper_style_figures_Figure3_Core_Mass_Derivation.png",
+    "RelativePath": "plots/additional/g79-cygnus/paper_style_figures_Figure3_Core_Mass_Derivation.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\paper_style_figures_Figure4_Radio_Molecule_Overlap.png",
+    "RelativePath": "plots/additional/g79-cygnus/paper_style_figures_Figure4_Radio_Molecule_Overlap.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\paper_style_figures_Figure5_Observational_Validation.png",
+    "RelativePath": "plots/additional/g79-cygnus/paper_style_figures_Figure5_Observational_Validation.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\paper_verification_results_FIXED_paper_prediction_FIXED.png",
+    "RelativePath": "plots/additional/g79-cygnus/paper_verification_results_FIXED_paper_prediction_FIXED.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\plots_IR_Ring_Profiles_G79.png",
+    "RelativePath": "plots/additional/g79-cygnus/plots_IR_Ring_Profiles_G79.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\publication_figures_english_Figure1_Framework.png",
+    "RelativePath": "plots/additional/g79-cygnus/publication_figures_english_Figure1_Framework.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\publication_figures_english_Figure2_Observations.png",
+    "RelativePath": "plots/additional/g79-cygnus/publication_figures_english_Figure2_Observations.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\publication_figures_english_Figure3_Validation.png",
+    "RelativePath": "plots/additional/g79-cygnus/publication_figures_english_Figure3_Validation.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\publication_outputs_figures_boundary_velocity_realistic.png",
+    "RelativePath": "plots/additional/g79-cygnus/publication_outputs_figures_boundary_velocity_realistic.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\publication_outputs_figures_boundary_velocity_signature.png",
+    "RelativePath": "plots/additional/g79-cygnus/publication_outputs_figures_boundary_velocity_signature.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\publication_outputs_figures_core_mass_profile_FIXED.png",
+    "RelativePath": "plots/additional/g79-cygnus/publication_outputs_figures_core_mass_profile_FIXED.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\publication_outputs_figures_core_mass_scaling_empirical.png",
+    "RelativePath": "plots/additional/g79-cygnus/publication_outputs_figures_core_mass_scaling_empirical.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\publication_outputs_figures_core_mass_ssz_pure_comparison.png",
+    "RelativePath": "plots/additional/g79-cygnus/publication_outputs_figures_core_mass_ssz_pure_comparison.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\publication_outputs_figures_energy_release_mechanism.png",
+    "RelativePath": "plots/additional/g79-cygnus/publication_outputs_figures_energy_release_mechanism.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\publication_outputs_figures_ir_ring_profiles.png",
+    "RelativePath": "plots/additional/g79-cygnus/publication_outputs_figures_ir_ring_profiles.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\publication_outputs_figures_segmented_spacetime_full_test.png",
+    "RelativePath": "plots/additional/g79-cygnus/publication_outputs_figures_segmented_spacetime_full_test.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\publication_outputs_figures_two_metric_domains.png",
+    "RelativePath": "plots/additional/g79-cygnus/publication_outputs_figures_two_metric_domains.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\results_boundary_velocity_realistic.png",
+    "RelativePath": "plots/additional/g79-cygnus/results_boundary_velocity_realistic.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\results_boundary_velocity_signature.png",
+    "RelativePath": "plots/additional/g79-cygnus/results_boundary_velocity_signature.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\results_core_mass_profile_FIXED.png",
+    "RelativePath": "plots/additional/g79-cygnus/results_core_mass_profile_FIXED.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\results_core_mass_scaling_empirical.png",
+    "RelativePath": "plots/additional/g79-cygnus/results_core_mass_scaling_empirical.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\results_energy_release_mechanism.png",
+    "RelativePath": "plots/additional/g79-cygnus/results_energy_release_mechanism.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\results_ir_ring_profiles.png",
+    "RelativePath": "plots/additional/g79-cygnus/results_ir_ring_profiles.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\results_segmented_spacetime_full_test.png",
+    "RelativePath": "plots/additional/g79-cygnus/results_segmented_spacetime_full_test.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\results_two_metric_domains.png",
+    "RelativePath": "plots/additional/g79-cygnus/results_two_metric_domains.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\scientific_figures_Fig1_Temperature_Fit_Residuals.png",
+    "RelativePath": "plots/additional/g79-cygnus/scientific_figures_Fig1_Temperature_Fit_Residuals.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\scientific_figures_Fig2_Velocity_Excess_Uncertainty.png",
+    "RelativePath": "plots/additional/g79-cygnus/scientific_figures_Fig2_Velocity_Excess_Uncertainty.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\scientific_figures_Fig3_Dual_Frame_Thermodynamics.png",
+    "RelativePath": "plots/additional/g79-cygnus/scientific_figures_Fig3_Dual_Frame_Thermodynamics.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\scientific_figures_Fig4_Core_Mass_Integral.png",
+    "RelativePath": "plots/additional/g79-cygnus/scientific_figures_Fig4_Core_Mass_Integral.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\scripts_energy_release_results_energy_release_mechanism.png",
+    "RelativePath": "plots/additional/g79-cygnus/scripts_energy_release_results_energy_release_mechanism.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\scripts_paper_verification_results_FIXED_paper_prediction_FIXED.png",
+    "RelativePath": "plots/additional/g79-cygnus/scripts_paper_verification_results_FIXED_paper_prediction_FIXED.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\scripts_two_metric_results_two_metric_domains.png",
+    "RelativePath": "plots/additional/g79-cygnus/scripts_two_metric_results_two_metric_domains.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\temperature_test_results_Eq09_T_basic.png",
+    "RelativePath": "plots/additional/g79-cygnus/temperature_test_results_Eq09_T_basic.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\temperature_test_results_Eq10_gamma_seg.png",
+    "RelativePath": "plots/additional/g79-cygnus/temperature_test_results_Eq10_gamma_seg.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\temperature_test_results_Eq15_dual_frame_temperature.png",
+    "RelativePath": "plots/additional/g79-cygnus/temperature_test_results_Eq15_dual_frame_temperature.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\temperature_test_results_Eq16_energy_density.png",
+    "RelativePath": "plots/additional/g79-cygnus/temperature_test_results_Eq16_energy_density.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\temperature_test_results_Eq18_recoupling_release.png",
+    "RelativePath": "plots/additional/g79-cygnus/temperature_test_results_Eq18_recoupling_release.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\temperature_test_results_Temperature_Complete_Comparison.png",
+    "RelativePath": "plots/additional/g79-cygnus/temperature_test_results_Temperature_Complete_Comparison.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\three_phase_results_three_phase_complete_diagram.png",
+    "RelativePath": "plots/additional/g79-cygnus/three_phase_results_three_phase_complete_diagram.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\three_phase_results_three_phase_energy_release.png",
+    "RelativePath": "plots/additional/g79-cygnus/three_phase_results_three_phase_energy_release.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\three_phase_results_three_phase_temperature.png",
+    "RelativePath": "plots/additional/g79-cygnus/three_phase_results_three_phase_temperature.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\three_phase_results_three_phase_velocity_profile.png",
+    "RelativePath": "plots/additional/g79-cygnus/three_phase_results_three_phase_velocity_profile.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-cygnus\\two_metric_results_two_metric_domains.png",
+    "RelativePath": "plots/additional/g79-cygnus/two_metric_results_two_metric_domains.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-temp\\temp_eq09_T_basic.png",
+    "RelativePath": "plots/additional/g79-temp/temp_eq09_T_basic.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-temp\\temp_eq10_gamma_seg.png",
+    "RelativePath": "plots/additional/g79-temp/temp_eq10_gamma_seg.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-temp\\temp_eq15_dual_frame_temperature.png",
+    "RelativePath": "plots/additional/g79-temp/temp_eq15_dual_frame_temperature.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-temp\\temp_eq16_energy_density.png",
+    "RelativePath": "plots/additional/g79-temp/temp_eq16_energy_density.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\g79-temp\\temp_eq18_temperature_recouple.png",
+    "RelativePath": "plots/additional/g79-temp/temp_eq18_temperature_recouple.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\ssz-metric-pure\\reports_figures_deviations_and_potential.png",
+    "RelativePath": "plots/additional/ssz-metric-pure/reports_figures_deviations_and_potential.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\ssz-metric-pure\\reports_figures_metric_and_dilation.png",
+    "RelativePath": "plots/additional/ssz-metric-pure/reports_figures_metric_and_dilation.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\ssz-metric-pure\\reports_figures_null_geodesics.png",
+    "RelativePath": "plots/additional/ssz-metric-pure/reports_figures_null_geodesics.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\stability\\ssz_stability_energy_series.png",
+    "RelativePath": "plots/additional/stability/ssz_stability_energy_series.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\stability\\ssz_stability_map.png",
+    "RelativePath": "plots/additional/stability/ssz_stability_map.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\stability\\ssz_stability_xi_rproxy.png",
+    "RelativePath": "plots/additional/stability/ssz_stability_xi_rproxy.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\bound_energy_clean_plot.png",
+    "RelativePath": "plots/additional/unified-results/bound_energy_clean_plot.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\dz_comb.png",
+    "RelativePath": "plots/additional/unified-results/dz_comb.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\dz_GR.png",
+    "RelativePath": "plots/additional/unified-results/dz_GR.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\dz_seg_pred.png",
+    "RelativePath": "plots/additional/unified-results/dz_seg_pred.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\dz_SR.png",
+    "RelativePath": "plots/additional/unified-results/dz_SR.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_animations_blackhole_segmented_spacetime.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_animations_blackhole_segmented_spacetime.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_animations_einstein_train_diagram.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_animations_einstein_train_diagram.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_animations_einstein_train_static.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_animations_einstein_train_static.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_animations_einstein_train_worldlines.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_animations_einstein_train_worldlines.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_results_data_boundary_lambdaA_vs_Omega0_uniform_v6.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_results_data_boundary_lambdaA_vs_Omega0_uniform_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_results_data_boundary_lambdaA_vs_Omega0_v6.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_results_data_boundary_lambdaA_vs_Omega0_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_results_data_boundary_lambdaA_vs_Omega0_weighted_v6.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_results_data_boundary_lambdaA_vs_Omega0_weighted_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_results_data_disagreement_map_uniform_v6.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_results_data_disagreement_map_uniform_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_results_data_disagreement_map_weighted_v6.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_results_data_disagreement_map_weighted_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_results_data_heatmap_stability_uniform_v6.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_results_data_heatmap_stability_uniform_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_results_data_heatmap_stability_weighted_v6.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_results_data_heatmap_stability_weighted_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_results_data_lambdaA_diff_map_uniform_v6.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_results_data_lambdaA_diff_map_uniform_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_results_data_lambdaA_diff_map_v6.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_results_data_lambdaA_diff_map_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_results_data_lambdaA_diff_map_weighted_v6.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_results_data_lambdaA_diff_map_weighted_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_results_plots_amplitude_trace_best_mode.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_results_plots_amplitude_trace_best_mode.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_results_plots_delta_metrics_barplot.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_results_plots_delta_metrics_barplot.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_results_plots_gr_correlation_scatter.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_results_plots_gr_correlation_scatter.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_results_plots_ssz_bomb_animation.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_results_plots_ssz_bomb_animation.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_results_plots_stabilization_heatmap_K64.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_results_plots_stabilization_heatmap_K64.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_scripts_black_hole_bomb_results_extended_results_plots_amplitude_trace_best_mode.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_scripts_black_hole_bomb_results_extended_results_plots_amplitude_trace_best_mode.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_scripts_black_hole_bomb_results_extended_results_plots_delta_metrics_barplot.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_scripts_black_hole_bomb_results_extended_results_plots_delta_metrics_barplot.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_scripts_black_hole_bomb_results_extended_results_plots_gr_correlation_scatter.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_scripts_black_hole_bomb_results_extended_results_plots_gr_correlation_scatter.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_scripts_black_hole_bomb_results_extended_results_plots_stabilization_heatmap_K64.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_scripts_black_hole_bomb_results_extended_results_plots_stabilization_heatmap_K64.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_scripts_black_hole_bomb_results_extended_results_proof_reports_boundary_lambdaA_vs_K.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_scripts_black_hole_bomb_results_extended_results_proof_reports_boundary_lambdaA_vs_K.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\evidenz-ssz_scripts_black_hole_bomb_results_extended_results_proof_reports_heatmap_stability.png",
+    "RelativePath": "plots/additional/unified-results/evidenz-ssz_scripts_black_hole_bomb_results_extended_results_proof_reports_heatmap_stability.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\experiments_2025-10-17_gaia_ssz_nightly_qa_parallax_hist.png",
+    "RelativePath": "plots/additional/unified-results/experiments_2025-10-17_gaia_ssz_nightly_qa_parallax_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\experiments_2025-10-17_gaia_ssz_nightly_qa_pmdec_hist.png",
+    "RelativePath": "plots/additional/unified-results/experiments_2025-10-17_gaia_ssz_nightly_qa_pmdec_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\experiments_2025-10-17_gaia_ssz_nightly_qa_pmra_hist.png",
+    "RelativePath": "plots/additional/unified-results/experiments_2025-10-17_gaia_ssz_nightly_qa_pmra_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\experiments_2025-10-17_gaia_ssz_nightly_qa_ruwe_hist.png",
+    "RelativePath": "plots/additional/unified-results/experiments_2025-10-17_gaia_ssz_nightly_qa_ruwe_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\experiments_2025-10-17_gaia_ssz_real_qa_parallax_hist.png",
+    "RelativePath": "plots/additional/unified-results/experiments_2025-10-17_gaia_ssz_real_qa_parallax_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\experiments_2025-10-17_gaia_ssz_real_qa_pmdec_hist.png",
+    "RelativePath": "plots/additional/unified-results/experiments_2025-10-17_gaia_ssz_real_qa_pmdec_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\experiments_2025-10-17_gaia_ssz_real_qa_pmra_hist.png",
+    "RelativePath": "plots/additional/unified-results/experiments_2025-10-17_gaia_ssz_real_qa_pmra_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\experiments_2025-10-17_gaia_ssz_real_qa_ruwe_hist.png",
+    "RelativePath": "plots/additional/unified-results/experiments_2025-10-17_gaia_ssz_real_qa_ruwe_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\experiments_2025-10-17_gaia_ssz_real_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/experiments_2025-10-17_gaia_ssz_real_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\experiments_2025-10-17_gaia_ssz_v1_qa_parallax_hist.png",
+    "RelativePath": "plots/additional/unified-results/experiments_2025-10-17_gaia_ssz_v1_qa_parallax_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\experiments_2025-10-17_gaia_ssz_v1_qa_pmdec_hist.png",
+    "RelativePath": "plots/additional/unified-results/experiments_2025-10-17_gaia_ssz_v1_qa_pmdec_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\experiments_2025-10-17_gaia_ssz_v1_qa_pmra_hist.png",
+    "RelativePath": "plots/additional/unified-results/experiments_2025-10-17_gaia_ssz_v1_qa_pmra_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\experiments_2025-10-17_gaia_ssz_v1_qa_ruwe_hist.png",
+    "RelativePath": "plots/additional/unified-results/experiments_2025-10-17_gaia_ssz_v1_qa_ruwe_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\experiments_2025-10-17_gaia_ssz_v1_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/experiments_2025-10-17_gaia_ssz_v1_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_experiments_qa_parallax_hist.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_experiments_qa_parallax_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_experiments_qa_pmdec_hist.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_experiments_qa_pmdec_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_experiments_qa_pmra_hist.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_experiments_qa_pmra_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_experiments_qa_ruwe_hist.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_experiments_qa_ruwe_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_experiments_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_experiments_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports__summary_assets_dz_gr_hist.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports__summary_assets_dz_gr_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports__summary_assets_dz_grsr_hist.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports__summary_assets_dz_grsr_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports__summary_assets_dz_seg_hist.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports__summary_assets_dz_seg_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports__summary_assets_dz_seg_vs_gr.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports__summary_assets_dz_seg_vs_gr.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports__summary_assets_dz_sr_hist.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports__summary_assets_dz_sr_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_1_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_1_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_10_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_10_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_11_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_11_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_12_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_12_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_13_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_13_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_14_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_14_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_15_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_15_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_16_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_16_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_17_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_17_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_18_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_18_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_19_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_19_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_2_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_2_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_3_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_3_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_4_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_4_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_5_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_5_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_6_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_6_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_7_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_7_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_8_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_8_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\final_reports_reports_bundle_replay_extract_9_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/final_reports_reports_bundle_replay_extract_9_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\hist_gr.png",
+    "RelativePath": "plots/additional/unified-results/hist_gr.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\hist_grsr.png",
+    "RelativePath": "plots/additional/unified-results/hist_grsr.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\hist_seg.png",
+    "RelativePath": "plots/additional/unified-results/hist_seg.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\hist_sr.png",
+    "RelativePath": "plots/additional/unified-results/hist_sr.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\mass_binned_medians.png",
+    "RelativePath": "plots/additional/unified-results/mass_binned_medians.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\media_blackhole_segmented_spacetime.png",
+    "RelativePath": "plots/additional/unified-results/media_blackhole_segmented_spacetime.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\out_phi_step_qq_uniform.png",
+    "RelativePath": "plots/additional/unified-results/out_phi_step_qq_uniform.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\out_phi_step_residual_abs_scatter.png",
+    "RelativePath": "plots/additional/unified-results/out_phi_step_residual_abs_scatter.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\out_phi_step_residual_hist.png",
+    "RelativePath": "plots/additional/unified-results/out_phi_step_residual_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_debug_alpha_sweep.png",
+    "RelativePath": "plots/additional/unified-results/outputs_debug_alpha_sweep.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_gr_ssz_intersection_neutron_star_2_mmsun.png",
+    "RelativePath": "plots/additional/unified-results/outputs_gr_ssz_intersection_neutron_star_2_mmsun.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_gr_ssz_intersection_sgr_a_4p1x10_mmsun.png",
+    "RelativePath": "plots/additional/unified-results/outputs_gr_ssz_intersection_sgr_a_4p1x10_mmsun.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_gr_ssz_sensitivity_map.png",
+    "RelativePath": "plots/additional/unified-results/outputs_gr_ssz_sensitivity_map.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_gr_ssz_time_dilation_plot.png",
+    "RelativePath": "plots/additional/unified-results/outputs_gr_ssz_time_dilation_plot.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_gr_vs_ssz_ns.png",
+    "RelativePath": "plots/additional/unified-results/outputs_gr_vs_ssz_ns.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_gr_vs_ssz_sensitivity.png",
+    "RelativePath": "plots/additional/unified-results/outputs_gr_vs_ssz_sensitivity.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_gr_vs_ssz_sgra.png",
+    "RelativePath": "plots/additional/unified-results/outputs_gr_vs_ssz_sgra.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_intersection_gr_ssz_intersection_M2Msun.png",
+    "RelativePath": "plots/additional/unified-results/outputs_intersection_gr_ssz_intersection_M2Msun.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_intersection_gr_ssz_intersection_M4.1e+06Msun.png",
+    "RelativePath": "plots/additional/unified-results/outputs_intersection_gr_ssz_intersection_M4.1e+06Msun.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_intersection_gr_ssz_schwachfeld_M2Msun.png",
+    "RelativePath": "plots/additional/unified-results/outputs_intersection_gr_ssz_schwachfeld_M2Msun.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_intersection_gr_ssz_schwachfeld_M4.1e+06Msun.png",
+    "RelativePath": "plots/additional/unified-results/outputs_intersection_gr_ssz_schwachfeld_M4.1e+06Msun.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_propertime_D_of_r_M2.png",
+    "RelativePath": "plots/additional/unified-results/outputs_propertime_D_of_r_M2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_propertime_D_of_r_M4.1e+06.png",
+    "RelativePath": "plots/additional/unified-results/outputs_propertime_D_of_r_M4.1e+06.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_propertime_redshift_M2.png",
+    "RelativePath": "plots/additional/unified-results/outputs_propertime_redshift_M2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_propertime_redshift_M4.1e+06.png",
+    "RelativePath": "plots/additional/unified-results/outputs_propertime_redshift_M4.1e+06.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_propertime_sensitivity_heatmap_M2.png",
+    "RelativePath": "plots/additional/unified-results/outputs_propertime_sensitivity_heatmap_M2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_propertime_sensitivity_heatmap_M4.1e+06.png",
+    "RelativePath": "plots/additional/unified-results/outputs_propertime_sensitivity_heatmap_M4.1e+06.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_shapiro_proxy_shapiro_proxy_M2.png",
+    "RelativePath": "plots/additional/unified-results/outputs_shapiro_proxy_shapiro_proxy_M2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_shapiro_proxy_shapiro_proxy_M4.1e+06.png",
+    "RelativePath": "plots/additional/unified-results/outputs_shapiro_proxy_shapiro_proxy_M4.1e+06.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_theory_validation_chaos.png",
+    "RelativePath": "plots/additional/unified-results/outputs_theory_validation_chaos.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_theory_validation_dilation.png",
+    "RelativePath": "plots/additional/unified-results/outputs_theory_validation_dilation.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_theory_validation_stability.png",
+    "RelativePath": "plots/additional/unified-results/outputs_theory_validation_stability.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_unified_validation_step2_intersection.png",
+    "RelativePath": "plots/additional/unified-results/outputs_unified_validation_step2_intersection.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_unified_validation_step3_bh_stability.png",
+    "RelativePath": "plots/additional/unified-results/outputs_unified_validation_step3_bh_stability.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_unified_validation_step4_time_emergence.png",
+    "RelativePath": "plots/additional/unified-results/outputs_unified_validation_step4_time_emergence.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_unified_validation_step5_chaos_boundary.png",
+    "RelativePath": "plots/additional/unified-results/outputs_unified_validation_step5_chaos_boundary.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_unified_validation_step6_ns_prediction.png",
+    "RelativePath": "plots/additional/unified-results/outputs_unified_validation_step6_ns_prediction.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\outputs_unified_validation_step9_toe_architecture.png",
+    "RelativePath": "plots/additional/unified-results/outputs_unified_validation_step9_toe_architecture.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\papers_validation_ChatGPT Image 16. Okt. 2025, 20_20_04.png",
+    "RelativePath": "plots/additional/unified-results/papers_validation_ChatGPT Image 16. Okt. 2025, 20_20_04.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real__summary_assets_dz_gr_hist.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real__summary_assets_dz_gr_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real__summary_assets_dz_grsr_hist.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real__summary_assets_dz_grsr_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real__summary_assets_dz_seg_hist.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real__summary_assets_dz_seg_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real__summary_assets_dz_seg_vs_gr.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real__summary_assets_dz_seg_vs_gr.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real__summary_assets_dz_sr_hist.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real__summary_assets_dz_sr_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_1_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_1_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_10_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_10_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_11_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_11_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_12_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_12_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_13_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_13_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_14_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_14_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_15_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_15_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_16_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_16_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_17_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_17_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_18_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_18_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_19_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_19_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_2_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_2_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_3_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_3_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_4_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_4_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_5_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_5_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_6_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_6_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_7_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_7_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_8_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_8_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_9_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/reports_2025-10-17_gaia_ssz_real_bundle_replay_extract_9_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_figures_analysis_data_quality_impact.png",
+    "RelativePath": "plots/additional/unified-results/reports_figures_analysis_data_quality_impact.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_figures_analysis_eso_breakthrough_results.png",
+    "RelativePath": "plots/additional/unified-results/reports_figures_analysis_eso_breakthrough_results.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_figures_analysis_eso_vs_mixed_regimes.png",
+    "RelativePath": "plots/additional/unified-results/reports_figures_analysis_eso_vs_mixed_regimes.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_figures_analysis_performance_heatmap.png",
+    "RelativePath": "plots/additional/unified-results/reports_figures_analysis_performance_heatmap.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_figures_analysis_phi_geometry_impact_eso.png",
+    "RelativePath": "plots/additional/unified-results/reports_figures_analysis_phi_geometry_impact_eso.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_figures_analysis_phi_geometry_impact.png",
+    "RelativePath": "plots/additional/unified-results/reports_figures_analysis_phi_geometry_impact.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_figures_analysis_stratification_robustness.png",
+    "RelativePath": "plots/additional/unified-results/reports_figures_analysis_stratification_robustness.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_figures_analysis_stratified_performance.png",
+    "RelativePath": "plots/additional/unified-results/reports_figures_analysis_stratified_performance.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_figures_analysis_winrate_vs_radius.png",
+    "RelativePath": "plots/additional/unified-results/reports_figures_analysis_winrate_vs_radius.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_figures_demo_fig_demo_heatmap.png",
+    "RelativePath": "plots/additional/unified-results/reports_figures_demo_fig_demo_heatmap.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_figures_demo_fig_demo_line.png",
+    "RelativePath": "plots/additional/unified-results/reports_figures_demo_fig_demo_line.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_figures_demo_fig_demo_scatter.png",
+    "RelativePath": "plots/additional/unified-results/reports_figures_demo_fig_demo_scatter.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_figures_DemoObject_fig_DemoObject_freqshift_vs_gamma.png",
+    "RelativePath": "plots/additional/unified-results/reports_figures_DemoObject_fig_DemoObject_freqshift_vs_gamma.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_figures_DemoObject_fig_DemoObject_gamma_log_vs_k.png",
+    "RelativePath": "plots/additional/unified-results/reports_figures_DemoObject_fig_DemoObject_gamma_log_vs_k.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_figures_DemoObject_fig_DemoObject_ringchain_v_vs_k.png",
+    "RelativePath": "plots/additional/unified-results/reports_figures_DemoObject_fig_DemoObject_ringchain_v_vs_k.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_figures_readme_header_sstars_comparison.png",
+    "RelativePath": "plots/additional/unified-results/reports_figures_readme_header_sstars_comparison.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\reports_figures_readme_results_phi_lattice.png",
+    "RelativePath": "plots/additional/unified-results/reports_figures_readme_results_phi_lattice.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\results_ssz_formal_fig_energy_series.png",
+    "RelativePath": "plots/additional/unified-results/results_ssz_formal_fig_energy_series.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\results_ssz_formal_fig_stability_map.png",
+    "RelativePath": "plots/additional/unified-results/results_ssz_formal_fig_stability_map.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\results_ssz_formal_fig_Xi_Rproxy.png",
+    "RelativePath": "plots/additional/unified-results/results_ssz_formal_fig_Xi_Rproxy.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\scripts_reports_2025-10-17_gaia_ssz_nightly_suite_plots_step_durations.png",
+    "RelativePath": "plots/additional/unified-results/scripts_reports_2025-10-17_gaia_ssz_nightly_suite_plots_step_durations.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\scripts_reports_2025-10-17_gaia_ssz_nightly_suite_plots_tests_pie.png",
+    "RelativePath": "plots/additional/unified-results/scripts_reports_2025-10-17_gaia_ssz_nightly_suite_plots_tests_pie.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\scripts_reports_2025-10-17_gaia_ssz_nightly_suite_plots_tests_status.png",
+    "RelativePath": "plots/additional/unified-results/scripts_reports_2025-10-17_gaia_ssz_nightly_suite_plots_tests_status.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\scripts_reports_2025-10-17_gaia_ssz_real_suite_plots_step_durations.png",
+    "RelativePath": "plots/additional/unified-results/scripts_reports_2025-10-17_gaia_ssz_real_suite_plots_step_durations.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\scripts_reports_2025-10-17_gaia_ssz_real_suite_plots_tests_pie.png",
+    "RelativePath": "plots/additional/unified-results/scripts_reports_2025-10-17_gaia_ssz_real_suite_plots_tests_pie.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\scripts_reports_2025-10-17_gaia_ssz_real_suite_plots_tests_status.png",
+    "RelativePath": "plots/additional/unified-results/scripts_reports_2025-10-17_gaia_ssz_real_suite_plots_tests_status.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\segspace_comparison.png",
+    "RelativePath": "plots/additional/unified-results/segspace_comparison.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\ssz_test_report.png",
+    "RelativePath": "plots/additional/unified-results/ssz_test_report.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_dz_comb.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_dz_comb.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_dz_GR.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_dz_GR.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_dz_seg_pred.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_dz_seg_pred.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_dz_SR.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_dz_SR.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_animations_blackhole_segmented_spacetime.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_animations_blackhole_segmented_spacetime.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_animations_einstein_train_diagram.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_animations_einstein_train_diagram.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_animations_einstein_train_static.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_animations_einstein_train_static.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_animations_einstein_train_worldlines.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_animations_einstein_train_worldlines.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_boundary_lambdaA_vs_Omega0_uniform_v6.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_boundary_lambdaA_vs_Omega0_uniform_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_boundary_lambdaA_vs_Omega0_v6.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_boundary_lambdaA_vs_Omega0_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_boundary_lambdaA_vs_Omega0_weighted_v6.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_boundary_lambdaA_vs_Omega0_weighted_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_disagreement_map_uniform_v6.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_disagreement_map_uniform_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_disagreement_map_weighted_v6.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_disagreement_map_weighted_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_heatmap_stability_uniform_v6.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_heatmap_stability_uniform_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_heatmap_stability_weighted_v6.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_heatmap_stability_weighted_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_lambdaA_diff_map_uniform_v6.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_lambdaA_diff_map_uniform_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_lambdaA_diff_map_v6.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_lambdaA_diff_map_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_lambdaA_diff_map_weighted_v6.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_data_lambdaA_diff_map_weighted_v6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_plots_amplitude_trace_best_mode.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_plots_amplitude_trace_best_mode.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_plots_delta_metrics_barplot.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_plots_delta_metrics_barplot.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_plots_gr_correlation_scatter.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_plots_gr_correlation_scatter.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_plots_stabilization_heatmap_K64.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_evidenz-ssz_results_plots_stabilization_heatmap_K64.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_nightly_qa_parallax_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_nightly_qa_parallax_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_nightly_qa_pmdec_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_nightly_qa_pmdec_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_nightly_qa_pmra_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_nightly_qa_pmra_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_nightly_qa_ruwe_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_nightly_qa_ruwe_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_real_qa_parallax_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_real_qa_parallax_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_real_qa_pmdec_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_real_qa_pmdec_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_real_qa_pmra_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_real_qa_pmra_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_real_qa_ruwe_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_real_qa_ruwe_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_real_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_real_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_v1_qa_parallax_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_v1_qa_parallax_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_v1_qa_pmdec_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_v1_qa_pmdec_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_v1_qa_pmra_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_v1_qa_pmra_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_v1_qa_ruwe_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_v1_qa_ruwe_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_v1_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_experiments_2025-10-17_gaia_ssz_v1_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_experiments_qa_parallax_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_experiments_qa_parallax_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_experiments_qa_pmdec_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_experiments_qa_pmdec_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_experiments_qa_pmra_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_experiments_qa_pmra_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_experiments_qa_ruwe_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_experiments_qa_ruwe_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_experiments_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_experiments_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports__summary_assets_dz_gr_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports__summary_assets_dz_gr_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports__summary_assets_dz_grsr_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports__summary_assets_dz_grsr_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports__summary_assets_dz_seg_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports__summary_assets_dz_seg_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports__summary_assets_dz_seg_vs_gr.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports__summary_assets_dz_seg_vs_gr.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports__summary_assets_dz_sr_hist.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports__summary_assets_dz_sr_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_1_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_1_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_10_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_10_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_11_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_11_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_12_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_12_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_13_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_13_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_14_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_14_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_15_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_15_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_16_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_16_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_17_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_17_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_18_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_18_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_19_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_19_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_2_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_2_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_3_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_3_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_4_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_4_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_5_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_5_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_6_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_6_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_7_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_7_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_8_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_8_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_9_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_final_reports_reports_bundle_replay_extract_9_experiments_2025-10-17_gaia_ssz_nightly_viz_ssz_density_mollweide.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_hist_gr.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_hist_gr.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_hist_grsr.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_hist_grsr.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_hist_seg.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_hist_seg.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_hist_sr.png",
+    "RelativePath": "plots/additional/unified-results/temp_test_clone_Segmented-Spacetime-Mass-Projection-Unified-Results_hist_sr.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\test_hawking_fit.png",
+    "RelativePath": "plots/additional/unified-results/test_hawking_fit.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_D_of_r_M2.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_D_of_r_M2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_D_of_r_M4.1e+06.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_D_of_r_M4.1e+06.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_debug_alpha_sweep.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_debug_alpha_sweep.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_dz_comb.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_dz_comb.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_dz_GR.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_dz_GR.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_dz_seg_pred.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_dz_seg_pred.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_dz_SR.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_dz_SR.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_gr_ssz_intersection_neutron_star_2_mmsun.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_gr_ssz_intersection_neutron_star_2_mmsun.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_gr_ssz_intersection_sgr_a_4p1x10_mmsun.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_gr_ssz_intersection_sgr_a_4p1x10_mmsun.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_gr_ssz_sensitivity_map.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_gr_ssz_sensitivity_map.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_gr_ssz_time_dilation_plot.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_gr_ssz_time_dilation_plot.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_gr_vs_ssz_ns.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_gr_vs_ssz_ns.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_gr_vs_ssz_sensitivity.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_gr_vs_ssz_sensitivity.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_gr_vs_ssz_sgra.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_gr_vs_ssz_sgra.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_hist_gr.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_hist_gr.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_hist_grsr.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_hist_grsr.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_hist_seg.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_hist_seg.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_hist_sr.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_hist_sr.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_mass_binned_medians.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_mass_binned_medians.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_redshift_M2.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_redshift_M2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_redshift_M4.1e+06.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_redshift_M4.1e+06.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_segspace_comparison.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_segspace_comparison.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_sensitivity_heatmap_M2.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_sensitivity_heatmap_M2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_sensitivity_heatmap_M4.1e+06.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_sensitivity_heatmap_M4.1e+06.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_shapiro_proxy_M2.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_shapiro_proxy_M2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_shapiro_proxy_M4.1e+06.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_shapiro_proxy_M4.1e+06.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_ssz_test_report.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_ssz_test_report.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_step2_intersection.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_step2_intersection.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_step3_bh_stability.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_step3_bh_stability.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_step4_time_emergence.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_step4_time_emergence.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_step5_chaos_boundary.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_step5_chaos_boundary.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_step6_ns_prediction.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_step6_ns_prediction.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_step9_toe_architecture.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_step9_toe_architecture.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_test_hawking_fit.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_test_hawking_fit.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_theory_validation_chaos.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_theory_validation_chaos.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_theory_validation_dilation.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_theory_validation_dilation.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_theory_validation_stability.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_theory_validation_stability.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_extended_plots_ToE_DASHBOARD.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_extended_plots_ToE_DASHBOARD.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_D_of_r_M2.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_D_of_r_M2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_D_of_r_M4.1e+06.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_D_of_r_M4.1e+06.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_debug_alpha_sweep.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_debug_alpha_sweep.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_gr_ssz_intersection_neutron_star_2_mmsun.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_gr_ssz_intersection_neutron_star_2_mmsun.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_gr_ssz_intersection_sgr_a_4p1x10_mmsun.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_gr_ssz_intersection_sgr_a_4p1x10_mmsun.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_gr_ssz_sensitivity_map.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_gr_ssz_sensitivity_map.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_gr_ssz_time_dilation_plot.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_gr_ssz_time_dilation_plot.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_gr_vs_ssz_ns.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_gr_vs_ssz_ns.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_gr_vs_ssz_sensitivity.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_gr_vs_ssz_sensitivity.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_gr_vs_ssz_sgra.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_gr_vs_ssz_sgra.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_redshift_M2.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_redshift_M2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_redshift_M4.1e+06.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_redshift_M4.1e+06.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_sensitivity_heatmap_M2.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_sensitivity_heatmap_M2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_sensitivity_heatmap_M4.1e+06.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_sensitivity_heatmap_M4.1e+06.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_shapiro_proxy_M2.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_shapiro_proxy_M2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_shapiro_proxy_M4.1e+06.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_shapiro_proxy_M4.1e+06.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_step2_intersection.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_step2_intersection.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_step3_bh_stability.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_step3_bh_stability.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_step4_time_emergence.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_step4_time_emergence.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_step5_chaos_boundary.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_step5_chaos_boundary.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_step6_ns_prediction.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_step6_ns_prediction.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_step9_toe_architecture.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_step9_toe_architecture.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_theory_validation_chaos.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_theory_validation_chaos.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_theory_validation_dilation.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_theory_validation_dilation.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_theory_validation_stability.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_theory_validation_stability.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_complete_plots_ToE_DASHBOARD.png",
+    "RelativePath": "plots/additional/unified-results/validation_complete_plots_ToE_DASHBOARD.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\unified-results\\validation_out_v2_ToE_DASHBOARD.png",
+    "RelativePath": "plots/additional/unified-results/validation_out_v2_ToE_DASHBOARD.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\energy_1.png",
+    "RelativePath": "plots/additional/validation/energy_1.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\energy_2.png",
+    "RelativePath": "plots/additional/validation/energy_2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\energy_3.png",
+    "RelativePath": "plots/additional/validation/energy_3.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\energy_4.png",
+    "RelativePath": "plots/additional/validation/energy_4.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\energy_5.png",
+    "RelativePath": "plots/additional/validation/energy_5.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\energy_6.png",
+    "RelativePath": "plots/additional/validation/energy_6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\energy_7.png",
+    "RelativePath": "plots/additional/validation/energy_7.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\energy_8.png",
+    "RelativePath": "plots/additional/validation/energy_8.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\energy_9.png",
+    "RelativePath": "plots/additional/validation/energy_9.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\ppn_combined.png",
+    "RelativePath": "plots/additional/validation/ppn_combined.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\proper_time_2.png",
+    "RelativePath": "plots/additional/validation/proper_time_2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\proper_time_3.png",
+    "RelativePath": "plots/additional/validation/proper_time_3.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\proper_time_4.png",
+    "RelativePath": "plots/additional/validation/proper_time_4.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\proper_time_5.png",
+    "RelativePath": "plots/additional/validation/proper_time_5.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\proper_time_6.png",
+    "RelativePath": "plots/additional/validation/proper_time_6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\proper_time_7.png",
+    "RelativePath": "plots/additional/validation/proper_time_7.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\proper_time.png",
+    "RelativePath": "plots/additional/validation/proper_time.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\qnm_2.png",
+    "RelativePath": "plots/additional/validation/qnm_2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\qnm_3.png",
+    "RelativePath": "plots/additional/validation/qnm_3.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\qnm_4.png",
+    "RelativePath": "plots/additional/validation/qnm_4.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\qnm_frequency.png",
+    "RelativePath": "plots/additional/validation/qnm_frequency.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\shadow_10.png",
+    "RelativePath": "plots/additional/validation/shadow_10.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\shadow_2.png",
+    "RelativePath": "plots/additional/validation/shadow_2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\shadow_3.png",
+    "RelativePath": "plots/additional/validation/shadow_3.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\shadow_4.png",
+    "RelativePath": "plots/additional/validation/shadow_4.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\shadow_5.png",
+    "RelativePath": "plots/additional/validation/shadow_5.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\shadow_6.png",
+    "RelativePath": "plots/additional/validation/shadow_6.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\shadow_7.png",
+    "RelativePath": "plots/additional/validation/shadow_7.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\shadow_8.png",
+    "RelativePath": "plots/additional/validation/shadow_8.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\shadow_9.png",
+    "RelativePath": "plots/additional/validation/shadow_9.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\additional\\validation\\shadow_vs_mass.png",
+    "RelativePath": "plots/additional/validation/shadow_vs_mass.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\comparison\\model_comparison_collapse.png",
+    "RelativePath": "plots/comparison/model_comparison_collapse.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\comparison\\model_comparison_phase.png",
+    "RelativePath": "plots/comparison/model_comparison_phase.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\comparison\\model_comparison_potential.png",
+    "RelativePath": "plots/comparison/model_comparison_potential.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\comparison\\model_comparison_trajectories.png",
+    "RelativePath": "plots/comparison/model_comparison_trajectories.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\comparison\\paper_compatibility_summary.png",
+    "RelativePath": "plots/comparison/paper_compatibility_summary.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\comparison\\radiowave_lightcurves.png",
+    "RelativePath": "plots/comparison/radiowave_lightcurves.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\generated\\coherence_decay.png",
+    "RelativePath": "plots/generated/coherence_decay.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\generated\\coherence_scaling.png",
+    "RelativePath": "plots/generated/coherence_scaling.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\generated\\effective_metric_evolution.png",
+    "RelativePath": "plots/generated/effective_metric_evolution.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\generated\\nested_submetric_analysis_local.png",
+    "RelativePath": "plots/generated/nested_submetric_analysis_local.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\missing\\1_core_radius_vs_mass_NO_SINGULARITY.png",
+    "RelativePath": "plots/missing/1_core_radius_vs_mass_NO_SINGULARITY.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\missing\\2_interior_geometry_FINITE_CURVATURE.png",
+    "RelativePath": "plots/missing/2_interior_geometry_FINITE_CURVATURE.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\missing\\3_SSZ_vs_GR_CORE_COMPARISON.png",
+    "RelativePath": "plots/missing/3_SSZ_vs_GR_CORE_COMPARISON.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\missing\\4_radiowave_spectrum_EXCESS_ENERGY.png",
+    "RelativePath": "plots/missing/4_radiowave_spectrum_EXCESS_ENERGY.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\missing\\5_radiowave_BEFORE_optical_TIMELINE.png",
+    "RelativePath": "plots/missing/5_radiowave_BEFORE_optical_TIMELINE.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\missing\\6_radio_vs_infall_velocity_CORRELATION.png",
+    "RelativePath": "plots/missing/6_radio_vs_infall_velocity_CORRELATION.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\missing\\7_velocity_decomposition_DIAGRAM.png",
+    "RelativePath": "plots/missing/7_velocity_decomposition_DIAGRAM.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\missing\\8_energy_budget_CONSERVATION.png",
+    "RelativePath": "plots/missing/8_energy_budget_CONSERVATION.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\missing\\9_energy_flow_DIAGRAM.png",
+    "RelativePath": "plots/missing/9_energy_flow_DIAGRAM.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\nested\\coherence_collapse_dynamics.png",
+    "RelativePath": "plots/nested/coherence_collapse_dynamics.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\nested\\nested_submetric_analysis.png",
+    "RelativePath": "plots/nested/nested_submetric_analysis.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\paper\\coherence_collapse_piecewise.png",
+    "RelativePath": "plots/paper/coherence_collapse_piecewise.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\paper\\energy_release_profile.png",
+    "RelativePath": "plots/paper/energy_release_profile.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\paper\\g1_g2_boundary_physics.png",
+    "RelativePath": "plots/paper/g1_g2_boundary_physics.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\paper\\observational_predictions.png",
+    "RelativePath": "plots/paper/observational_predictions.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\paper\\paper_summary_figure.png",
+    "RelativePath": "plots/paper/paper_summary_figure.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\paper\\radiowave_precursor_mechanism.png",
+    "RelativePath": "plots/paper/radiowave_precursor_mechanism.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\real-data\\1_collapse_rate_REAL_DATA.png",
+    "RelativePath": "plots/real-data/1_collapse_rate_REAL_DATA.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\real-data\\2_coherence_evolution_REAL_DATA.png",
+    "RelativePath": "plots/real-data/2_coherence_evolution_REAL_DATA.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\real-data\\3_radio_timing_REAL_DATA.png",
+    "RelativePath": "plots/real-data/3_radio_timing_REAL_DATA.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\real-data\\4_model_compatibility_REAL_DATA.png",
+    "RelativePath": "plots/real-data/4_model_compatibility_REAL_DATA.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\real-data\\5_potential_landscapes_REAL_DATA.png",
+    "RelativePath": "plots/real-data/5_potential_landscapes_REAL_DATA.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\real-data\\6_irreversible_collapse_4panel_REAL_DATA.png",
+    "RelativePath": "plots/real-data/6_irreversible_collapse_4panel_REAL_DATA.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\real-data\\7_piecewise_4panel_REAL_DATA.png",
+    "RelativePath": "plots/real-data/7_piecewise_4panel_REAL_DATA.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\real-data\\radiowave_precursor_predictions_REAL_DATA.png",
+    "RelativePath": "plots/real-data/radiowave_precursor_predictions_REAL_DATA.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\real-data\\sharp_break_detection_COMPLETE.png",
+    "RelativePath": "plots/real-data/sharp_break_detection_COMPLETE.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\sharp-break\\1_temperature_profile_with_break.png",
+    "RelativePath": "plots/sharp-break/1_temperature_profile_with_break.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\sharp-break\\2_piecewise_vs_smooth_fit.png",
+    "RelativePath": "plots/sharp-break/2_piecewise_vs_smooth_fit.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\sharp-break\\3_gradient_curvature_analysis.png",
+    "RelativePath": "plots/sharp-break/3_gradient_curvature_analysis.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\sharp-break\\4_domain_structure_g1_g2.png",
+    "RelativePath": "plots/sharp-break/4_domain_structure_g1_g2.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\sharp-break\\5_residual_comparison.png",
+    "RelativePath": "plots/sharp-break/5_residual_comparison.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\sharp-break\\sharp_break_detection_COMPLETE.png",
+    "RelativePath": "plots/sharp-break/sharp_break_detection_COMPLETE.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\g79-cygnus\\boundary_velocity_realistic.png",
+    "RelativePath": "plots/test-repos/g79-cygnus/boundary_velocity_realistic.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\g79-cygnus\\boundary_velocity_signature.png",
+    "RelativePath": "plots/test-repos/g79-cygnus/boundary_velocity_signature.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\g79-cygnus\\core_mass_profile_FIXED.png",
+    "RelativePath": "plots/test-repos/g79-cygnus/core_mass_profile_FIXED.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\g79-cygnus\\core_mass_scaling_empirical.png",
+    "RelativePath": "plots/test-repos/g79-cygnus/core_mass_scaling_empirical.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\g79-cygnus\\energy_release_mechanism.png",
+    "RelativePath": "plots/test-repos/g79-cygnus/energy_release_mechanism.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\g79-cygnus\\G79_gamma_seg_fit.png",
+    "RelativePath": "plots/test-repos/g79-cygnus/G79_gamma_seg_fit.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\g79-cygnus\\G79_mass_profile.png",
+    "RelativePath": "plots/test-repos/g79-cygnus/G79_mass_profile.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\g79-cygnus\\G79_radio_predictions.png",
+    "RelativePath": "plots/test-repos/g79-cygnus/G79_radio_predictions.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\g79-cygnus\\IR_Ring_Profiles_G79.png",
+    "RelativePath": "plots/test-repos/g79-cygnus/IR_Ring_Profiles_G79.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\g79-cygnus\\ir_ring_profiles.png",
+    "RelativePath": "plots/test-repos/g79-cygnus/ir_ring_profiles.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\g79-cygnus\\segmented_spacetime_full_test.png",
+    "RelativePath": "plots/test-repos/g79-cygnus/segmented_spacetime_full_test.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\g79-cygnus\\two_metric_domains.png",
+    "RelativePath": "plots/test-repos/g79-cygnus/two_metric_domains.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\bound_energy_clean_plot.png",
+    "RelativePath": "plots/test-repos/unified-results/bound_energy_clean_plot.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\debug_alpha_sweep.png",
+    "RelativePath": "plots/test-repos/unified-results/debug_alpha_sweep.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\dz_comb.png",
+    "RelativePath": "plots/test-repos/unified-results/dz_comb.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\dz_GR.png",
+    "RelativePath": "plots/test-repos/unified-results/dz_GR.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\dz_seg_pred.png",
+    "RelativePath": "plots/test-repos/unified-results/dz_seg_pred.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\dz_SR.png",
+    "RelativePath": "plots/test-repos/unified-results/dz_SR.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\gr_ssz_intersection_neutron_star_2_mmsun.png",
+    "RelativePath": "plots/test-repos/unified-results/gr_ssz_intersection_neutron_star_2_mmsun.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\gr_ssz_intersection_sgr_a_4p1x10_mmsun.png",
+    "RelativePath": "plots/test-repos/unified-results/gr_ssz_intersection_sgr_a_4p1x10_mmsun.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\gr_ssz_sensitivity_map.png",
+    "RelativePath": "plots/test-repos/unified-results/gr_ssz_sensitivity_map.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\gr_ssz_time_dilation_plot.png",
+    "RelativePath": "plots/test-repos/unified-results/gr_ssz_time_dilation_plot.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\gr_vs_ssz_ns.png",
+    "RelativePath": "plots/test-repos/unified-results/gr_vs_ssz_ns.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\gr_vs_ssz_sensitivity.png",
+    "RelativePath": "plots/test-repos/unified-results/gr_vs_ssz_sensitivity.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\gr_vs_ssz_sgra.png",
+    "RelativePath": "plots/test-repos/unified-results/gr_vs_ssz_sgra.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\hist_gr.png",
+    "RelativePath": "plots/test-repos/unified-results/hist_gr.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\hist_grsr.png",
+    "RelativePath": "plots/test-repos/unified-results/hist_grsr.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\hist_seg.png",
+    "RelativePath": "plots/test-repos/unified-results/hist_seg.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\hist_sr.png",
+    "RelativePath": "plots/test-repos/unified-results/hist_sr.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\mass_binned_medians.png",
+    "RelativePath": "plots/test-repos/unified-results/mass_binned_medians.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\phi_step_qq_uniform.png",
+    "RelativePath": "plots/test-repos/unified-results/phi_step_qq_uniform.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\phi_step_residual_abs_scatter.png",
+    "RelativePath": "plots/test-repos/unified-results/phi_step_residual_abs_scatter.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\phi_step_residual_hist.png",
+    "RelativePath": "plots/test-repos/unified-results/phi_step_residual_hist.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\segspace_comparison.png",
+    "RelativePath": "plots/test-repos/unified-results/segspace_comparison.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\ssz_formal_fig_energy_series.png",
+    "RelativePath": "plots/test-repos/unified-results/ssz_formal_fig_energy_series.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\ssz_formal_fig_stability_map.png",
+    "RelativePath": "plots/test-repos/unified-results/ssz_formal_fig_stability_map.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\ssz_formal_fig_Xi_Rproxy.png",
+    "RelativePath": "plots/test-repos/unified-results/ssz_formal_fig_Xi_Rproxy.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\ssz_test_report.png",
+    "RelativePath": "plots/test-repos/unified-results/ssz_test_report.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\test_hawking_fit.png",
+    "RelativePath": "plots/test-repos/unified-results/test_hawking_fit.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\theory_validation_chaos.png",
+    "RelativePath": "plots/test-repos/unified-results/theory_validation_chaos.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\theory_validation_dilation.png",
+    "RelativePath": "plots/test-repos/unified-results/theory_validation_dilation.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\test-repos\\unified-results\\theory_validation_stability.png",
+    "RelativePath": "plots/test-repos/unified-results/theory_validation_stability.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\vergleich-zwischenschritt\\model_comparison_collapse.png",
+    "RelativePath": "plots/vergleich-zwischenschritt/model_comparison_collapse.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\vergleich-zwischenschritt\\model_comparison_phase.png",
+    "RelativePath": "plots/vergleich-zwischenschritt/model_comparison_phase.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\vergleich-zwischenschritt\\model_comparison_potential.png",
+    "RelativePath": "plots/vergleich-zwischenschritt/model_comparison_potential.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\vergleich-zwischenschritt\\model_comparison_trajectories.png",
+    "RelativePath": "plots/vergleich-zwischenschritt/model_comparison_trajectories.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\vergleich-zwischenschritt\\paper_compatibility_summary.png",
+    "RelativePath": "plots/vergleich-zwischenschritt/paper_compatibility_summary.png"
+  },
+  {
+    "FullName": "E:\\clone\\PAPER-RESTORED\\plots\\vergleich-zwischenschritt\\radiowave_lightcurves.png",
+    "RelativePath": "plots/vergleich-zwischenschritt/radiowave_lightcurves.png"
+  }
+]

@@ -16,6 +16,9 @@ This document catalogs **ALL 570+ plots** in this repository, organized by categ
 
 > **💡 Just need paper-ready plots?**  
 > 👉 **[SHOW-PAPER-PLOTS.md](SHOW-PAPER-PLOTS.md)** - 17 curated plots with detailed descriptions for publications
+>
+> **📸 Want to SEE all plots visually?**  
+> 👉 **[SHOW-ALL-PLOTS-VISUAL.md](SHOW-ALL-PLOTS-VISUAL.md)** - Visual gallery with all images displayed (large file!)
 
 ---
 

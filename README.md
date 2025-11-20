@@ -44,7 +44,9 @@
 
 **👉 [SHOW-PAPER-PLOTS.md](SHOW-PAPER-PLOTS.md) - 17 paper-ready plots with detailed descriptions**
 
-**📚 [SHOW-ALL-PLOTS.md](SHOW-ALL-PLOTS.md) - Complete collection: ALL 570+ plots in repository**  
+**📚 [SHOW-ALL-PLOTS.md](SHOW-ALL-PLOTS.md) - Complete catalog: ALL 570+ plots (text list)**
+
+**🖼️ [SHOW-ALL-PLOTS-VISUAL.md](SHOW-ALL-PLOTS-VISUAL.md) - Visual gallery: ALL plots displayed with images**  
 
 ---
 
