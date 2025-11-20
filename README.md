@@ -16,7 +16,7 @@
   <a href="#-main-results">Results</a> •
   <a href="#-quick-start">Quick Start</a> •
   <a href="SHOW-PAPER-PLOTS.md">📸 Paper Plots</a> •
-  <a href="SHOW-ALL-PLOTS.md">📚 All Plots</a> •
+  <a href="SHOW-ALL-PLOTS-VISUAL.md">📚 All Plots</a> •
   <a href="#-documentation">Docs</a>
 </p>
 
@@ -44,9 +44,9 @@
 
 **👉 [SHOW-PAPER-PLOTS.md](SHOW-PAPER-PLOTS.md) - 17 paper-ready plots with detailed descriptions**
 
-**📚 [SHOW-ALL-PLOTS.md](SHOW-ALL-PLOTS.md) - Complete catalog: ALL 570+ plots (text list)**
+**📚 [SHOW-ALL-PLOTS-VISUAL.md](SHOW-ALL-PLOTS-VISUAL.md) - ALL 570+ plots displayed visually**
 
-**🖼️ [SHOW-ALL-PLOTS-VISUAL.md](SHOW-ALL-PLOTS-VISUAL.md) - Visual gallery: ALL plots displayed with images**  
+> 💡 *For text catalog without images, see [SHOW-ALL-PLOTS.md](SHOW-ALL-PLOTS.md) (faster loading)*  
 
 ---
 
@@ -68,7 +68,7 @@
   <em>Left: g₁/g₂ domain structure (4× slope difference) | Right: Complete piecewise dynamics</em>
 </p>
 
-**➡️ [View all 17 paper plots](SHOW-PAPER-PLOTS.md) | [View ALL 570+ plots](SHOW-ALL-PLOTS.md)**  
+**➡️ [View all 17 paper plots](SHOW-PAPER-PLOTS.md) | [View ALL 570+ plots](SHOW-ALL-PLOTS-VISUAL.md)**  
 
 ---
 
@@ -100,7 +100,7 @@ python generate_all_real_data_plots_master.py
 
 **Next Steps:**
 - 📸 [SHOW-PAPER-PLOTS.md](SHOW-PAPER-PLOTS.md) - Detailed descriptions of 17 paper-ready plots
-- 📚 [SHOW-ALL-PLOTS.md](SHOW-ALL-PLOTS.md) - Complete catalog of all 570+ plots
+- 📚 [SHOW-ALL-PLOTS-VISUAL.md](SHOW-ALL-PLOTS-VISUAL.md) - Visual gallery of all 570+ plots
 
 ---
 
@@ -799,7 +799,7 @@ Want to collaborate on multi-object studies?
 <p align="center">
   <a href="https://github.com/error-wtf/ssz-paper-plots">Repository</a> •
   <a href="SHOW-PAPER-PLOTS.md">Paper Plots</a> •
-  <a href="SHOW-ALL-PLOTS.md">All Plots</a> •
+  <a href="SHOW-ALL-PLOTS-VISUAL.md">All Plots</a> •
   <a href="docs/QUICKSTART.md">Quick Start</a> •
   <a href="docs/SCIENTIFIC_RESULTS.md">Results</a>
 </p>
