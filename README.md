@@ -40,9 +40,11 @@
 
 ---
 
-## 📸 View All Plots
+### 📸 View Plots
 
-### **👉 [SHOW-ALL-PLOTS.md](SHOW-ALL-PLOTS.md) ← Complete gallery with detailed descriptions of all 17 plots!**  
+**👉 [SHOW-PAPER-PLOTS.md](SHOW-PAPER-PLOTS.md) - 17 paper-ready plots with detailed descriptions**
+
+**📚 [SHOW-ALL-PLOTS.md](SHOW-ALL-PLOTS.md) - Complete collection: ALL 570+ plots in repository**  
 
 ---
 
@@ -64,7 +66,7 @@
   <em>Left: g₁/g₂ domain structure (4× slope difference) | Right: Complete piecewise dynamics</em>
 </p>
 
-**➡️ [View all 17 plots with full descriptions](SHOW-ALL-PLOTS.md)**  
+**➡️ [View all 17 paper plots](SHOW-PAPER-PLOTS.md) | [View ALL 570+ plots](SHOW-ALL-PLOTS.md)**  
 
 ---
 
