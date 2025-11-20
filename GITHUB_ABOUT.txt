@@ -1,0 +1,1 @@
+SSZ Real Data Plots: Sharp break detected at r_c=0.9±0.26pc (3σ) in G79.29+0.46 using peer-reviewed data. Piecewise model 100% compatible vs cubic 60%. Complete validation with 17 high-resolution plots from ApJ, A&A, MNRAS observations.
