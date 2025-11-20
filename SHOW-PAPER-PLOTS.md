@@ -657,6 +657,71 @@ nh3_df = data['nh3']
 
 ---
 
+## 📊 Statistical Analysis: χ² Domain Splitting
+
+### Plot 18: χ² Split Analysis - Why Domain Separation Matters
+![Chi-Squared Split Analysis](plots/chi_squared_test/chi_squared_split_analysis.png)
+
+**File:** `plots/chi_squared_test/chi_squared_split_analysis.png`  
+**Data Source:** G79 temperature profile (15 data points)
+
+**Description:**
+Demonstrates why traditional single χ² is misleading when analyzing segmented spacetime. Shows that the piecewise SSZ model must be evaluated separately in each domain (g₂ collapse vs g₁ stable) to obtain physically meaningful statistics.
+
+**4-Panel Analysis:**
+
+**Panel 1 - Data + Fits:**
+- Black points: G79.29+0.46 observational data
+- Blue line: Piecewise SSZ model (sharp break at r_c = 0.9 pc)
+- Red dashed: Smooth cubic model (no break)
+- Blue/red shading: Domain boundaries (g₂/g₁)
+
+**Panel 2 - Residuals:**
+- Shows normalized residuals (data - model) / σ
+- Piecewise (blue): Higher residuals in g₂ (expected from collapse)
+- Smooth (red): Cannot capture sharp physics
+
+**Panel 3 - χ² Comparison:**
+- Traditional mixed: χ²_red = 0.95 (misleading!)
+- Split g₂: χ²_red = 1.36 (collapse physics)
+- Split g₁: χ²_red = 0.47 (excellent stable fit)
+
+**Panel 4 - Domain-wise Residual Distributions:**
+- Blue histogram: g₂ residuals (broader, σ_res = 1.16)
+- Red histogram: g₁ residuals (narrower, σ_res = 0.69)
+
+**Key Finding:**
+The traditional approach of computing a single χ² over both domains (χ²_red = 0.95) obscures the true physics. When split by domain:
+- **g₂ (inner):** χ²_red = 1.36 reflects gravitational collapse, turbulence, and strong gradients
+- **g₁ (outer):** χ²_red = 0.47 shows excellent fit in the stable, hydrostatic regime
+
+This validates that the SSZ piecewise model correctly captures TWO DISTINCT PHYSICAL REGIMES that cannot be judged by a single statistical metric.
+
+**Physical Interpretation:**
+- **Domain g₂ (r < 0.9 pc):** Higher χ² is EXPECTED due to:
+  - Gravitational collapse
+  - Strong density gradients
+  - Turbulent flows
+  - Non-thermal emission
+  
+- **Domain g₁ (r ≥ 0.9 pc):** Lower χ² reflects:
+  - Hydrostatic equilibrium
+  - Adiabatic expansion
+  - Thermal stability
+  - Linear regime
+
+**Statistical Significance:**
+- 8 points in g₂, 7 points in g₁
+- Domain splitting is ESSENTIAL for proper model evaluation
+- Mixed χ² artificially averages incompatible regimes
+
+**For Papers:**
+> "Because our model explicitly contains two physical domains (collapsing g₂ and stable g₁), a single global χ² is not meaningful. We therefore compute χ²_red separately for each domain, finding χ²_red,g₂ = 1.36 (consistent with collapse physics) and χ²_red,g₁ = 0.47 (excellent fit in stable regime)."
+
+**See Also:** [CHI_SQUARED_SPLITTING.md](docs/CHI_SQUARED_SPLITTING.md) for complete statistical methodology
+
+---
+
 ## 📚 Documentation
 
 - **[README_FUTURE_REPO.md](README_FUTURE_REPO.md)** - Complete project overview
