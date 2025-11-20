@@ -73,22 +73,92 @@
 ### Time Dilation & Gravitational Effects
 
 ![GR vs SSZ Time Dilation](plots/test-repos/unified-results/gr_ssz_time_dilation_plot.png)
-**GR vs SSZ Time Dilation** - Comparison across scales
+**GR vs SSZ Time Dilation** - Comparison across mass scales
+
+**Was zeigt dieser Plot:**
+- Time dilation τ(r) comparison between General Relativity and SSZ
+- Covers mass range from stellar to supermassive scales
+- Shows convergence in weak field, divergence in strong field
+
+**Wissenschaftliche Bedeutung:**
+- Validates SSZ matches GR at large distances (PPN limit)
+- Demonstrates finite time dilation at all radii (no singularity)
+- Tests across 12 orders of magnitude in mass
+
+---
 
 ![Neutron Star](plots/test-repos/unified-results/gr_vs_ssz_ns.png)
-**GR vs SSZ - Neutron Star** - NS regime comparison
+**GR vs SSZ - Neutron Star** - Strong-field regime comparison
+
+**Was zeigt dieser Plot:**
+- Neutron star (M ~ 2 M☉) metric comparison
+- Radial profiles for relevant metric functions
+- Strong-field deviations from GR
+
+**Wissenschaftliche Bedeutung:**
+- SSZ predicts finite photon sphere (r_ph ~ 4.4 r_s)
+- No event horizon in SSZ framework
+- Observable differences in neutron star structure
+
+---
 
 ![Sgr A*](plots/test-repos/unified-results/gr_vs_ssz_sgra.png)
-**GR vs SSZ - Sgr A*** - Supermassive black hole regime
+**GR vs SSZ - Sgr A*** - Supermassive black hole comparison
+
+**Was zeigt dieser Plot:**
+- Sgr A* (M = 4.1×10⁶ M☉) metric at galactic center
+- Shadow radius predictions
+- Spacetime curvature profiles
+
+**Wissenschaftliche Bedeutung:**
+- Testable with Event Horizon Telescope observations
+- SSZ predicts slightly different shadow size
+- Crucial for validating theory at SMBH scales
+
+---
 
 ![Sensitivity Map](plots/test-repos/unified-results/gr_ssz_sensitivity_map.png)
 **Sensitivity Map** - Parameter space exploration
 
+**Was zeigt dieser Plot:**
+- Heat map of SSZ-GR deviations across parameter space
+- Shows where differences are largest/smallest
+- Identifies optimal parameter regimes for testing
+
+**Wissenschaftliche Bedeutung:**
+- Guides observational strategy
+- Identifies best targets for SSZ validation
+- Shows which mass ranges have strongest signals
+
+---
+
 ![NS Intersection](plots/test-repos/unified-results/gr_ssz_intersection_neutron_star_2_mmsun.png)
-**NS Intersection Analysis** - 2 M☉ neutron star
+**NS Intersection Analysis** - 2 M☉ neutron star detailed
+
+**Was zeigt dieser Plot:**
+- Precise intersection points between GR and SSZ curves
+- Radial locations where predictions converge/diverge
+- Multiple metric functions analyzed
+
+**Wissenschaftliche Bedeutung:**
+- Identifies exact radii for observational tests
+- Quantifies prediction differences
+- Critical for neutron star observations
+
+---
 
 ![Sgr A* Intersection](plots/test-repos/unified-results/gr_ssz_intersection_sgr_a_4p1x10_mmsun.png)
-**Sgr A* Intersection** - 4.1×10⁶ M☉ SMBH
+**Sgr A* Intersection** - 4.1×10⁶ M☉ SMBH analysis
+
+**Was zeigt dieser Plot:**
+- Intersection analysis for Sgr A*
+- Shows where GR and SSZ predictions match/differ
+- Includes observational constraints
+
+**Wissenschaftliche Bedeutung:**
+- Direct comparison with EHT data possible
+- Tests SSZ at largest accessible mass scales
+- Validates or falsifies theory with real observations
 
 ### Mass & Metric Analysis
 
