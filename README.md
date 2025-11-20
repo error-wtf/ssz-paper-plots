@@ -8,7 +8,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Anti--Capitalist%20v1.4-red.svg" alt="License"></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python"></a>
   <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
-  <img src="https://img.shields.io/badge/Plots-17%20High--Res-orange.svg" alt="Plots">
+  <img src="https://img.shields.io/badge/Plots-18%20Paper%20Ready%20%2B%20570%20Total-orange.svg" alt="Plots">
   <img src="https://img.shields.io/badge/Data-100%25%20Peer--Reviewed-success.svg" alt="Data">
 </p>
 
@@ -42,11 +42,13 @@
 
 ### 📸 View Plots
 
-**👉 [SHOW-PAPER-PLOTS.md](SHOW-PAPER-PLOTS.md) - 17 paper-ready plots with detailed descriptions**
+**👉 [SHOW-PAPER-PLOTS.md](SHOW-PAPER-PLOTS.md) - 18 paper-ready plots with detailed descriptions**
 
-**📚 [SHOW-ALL-PLOTS-VISUAL.md](SHOW-ALL-PLOTS-VISUAL.md) - ALL 570+ plots displayed visually**
+**📚 [SHOW-ALL-PLOTS-VISUAL.md](SHOW-ALL-PLOTS-VISUAL.md) - ALL 570 plots displayed visually with individual explanations**
 
 > 💡 *For text catalog without images, see [SHOW-ALL-PLOTS.md](SHOW-ALL-PLOTS.md) (faster loading)*  
+
+**⭐ NEW:** [χ² Domain Splitting Analysis](docs/CHI_SQUARED_SPLITTING.md) - Why traditional χ² fails for multi-domain models
 
 ---
 
@@ -332,6 +334,29 @@ gen_compat(data, output_dir='plots/real-data/')
 - **GRS 1915+105:** Radio precursor observed (Russell+ 2010) ✓
 - **G79.29+0.46:** Prediction awaiting observations
 
+### χ² Domain Splitting - Critical Methodology ⭐
+
+**Problem:** Traditional single χ² mixes incompatible physical regimes  
+**Solution:** Split χ² by domain (g₂ collapse vs g₁ stable)
+
+**Results for G79 Piecewise Model:**
+
+| Approach | χ²_red | Interpretation |
+|----------|---------|----------------|
+| **Traditional (mixed)** | 0.95 | ❌ Misleading - averages incompatible regimes |
+| **Split g₂ (inner)** | 1.36 | ✅ Correct - collapse physics |
+| **Split g₁ (outer)** | 0.47 | ✅ Excellent - stable regime |
+
+**Why This Matters:**
+- g₂ domain: Collapse, turbulence → naturally high χ² ✓
+- g₁ domain: Hydrostatic equilibrium → low χ² ✓
+- Mixed χ² obscures these physical differences!
+
+**📖 [Complete methodology: CHI_SQUARED_SPLITTING.md](docs/CHI_SQUARED_SPLITTING.md)**
+
+**Key Insight:**  
+> "Domain splitting is ESSENTIAL for segmented spacetime models. Each domain has different error characteristics and must be evaluated separately."
+
 ---
 
 ## 📚 Data Sources
@@ -399,6 +424,7 @@ C(Xi) = Γ₀ * [dV/dXi]³
 ### Scientific
 - **[SCIENTIFIC_RESULTS.md](docs/SCIENTIFIC_RESULTS.md)** - Key findings & evidence
 - **[SHARP_BREAK_SOLUTION.md](docs/SHARP_BREAK_SOLUTION.md)** - Break detection analysis
+- **[CHI_SQUARED_SPLITTING.md](docs/CHI_SQUARED_SPLITTING.md)** ⭐ NEW - Statistical methodology for multi-domain models
 - **[DATA_README.md](data/DATA_README.md)** - Data provenance & quality
 
 ### Technical
@@ -709,6 +735,23 @@ This work builds upon and integrates data from:
 
 ## 📅 Changelog
 
+### Version 1.1.0 (2025-11-20) - χ² Splitting Update
+
+**Added:**
+- ✅ χ² domain splitting analysis (Plot 18)
+- ✅ Complete statistical methodology documentation
+- ✅ CHI_SQUARED_SPLITTING.md - comprehensive guide
+- ✅ test_chi_squared_split.py - working implementation
+- ✅ ALL 570 plots with individual explanations in SHOW-ALL-PLOTS-VISUAL.md
+- ✅ Featured section in visual gallery highlighting 18 paper plots
+
+**Validated:**
+- ✅ χ²_red split: g₂ = 1.36 (collapse), g₁ = 0.47 (stable)
+- ✅ Domain splitting is essential for multi-regime models
+- ✅ Traditional mixed χ² (0.95) is misleading
+
+**Status:** Production Ready
+
 ### Version 1.0.0 (2025-11-20)
 
 **Added:**
@@ -806,9 +849,10 @@ Want to collaborate on multi-object studies?
 
 <p align="center">
   <img src="https://img.shields.io/badge/Last%20Updated-2025--11--20-blue.svg" alt="Last Updated">
-  <img src="https://img.shields.io/badge/Plots-17%20High--Res-orange.svg" alt="Plot Count">
+  <img src="https://img.shields.io/badge/Plots-18%20Paper%20%2B%20570%20Total-orange.svg" alt="Plot Count">
   <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
   <img src="https://img.shields.io/badge/Data-100%25%20Peer--Reviewed-success.svg" alt="Data Quality">
+  <img src="https://img.shields.io/badge/%CF%87%C2%B2-Domain%20Splitting-red.svg" alt="Chi-Squared Splitting">
 </p>
 
 ---
