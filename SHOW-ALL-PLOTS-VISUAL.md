@@ -1653,3 +1653,4 @@ Displayed: ~150+ plots (key examples)
   <strong>Visual catalog of SSZ theory validation</strong><br>
   <strong>570+ plots • 100% peer-reviewed data • Production ready</strong>
 </p>
+<!-- Force refresh 2025-11-20 01:58:59 -->
