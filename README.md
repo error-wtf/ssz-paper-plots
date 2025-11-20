@@ -276,7 +276,15 @@ gen_compat(data, output_dir='plots/real-data/')
 </tr>
 </table>
 
-> **Critical Insight:** Both models achieve excellent numerical fits (R² > 0.99), BUT only the piecewise model captures the **sharp break observed in real data**. Numerical fit quality alone is insufficient—physical structure matters!
+> **🚨 CRITICAL INSIGHT: Numerical Fit ≠ Physical Reality**
+> 
+> Both models achieve excellent numerical fits (R² > 0.99), BUT only the piecewise model captures the **sharp break observed in real data**. 
+> 
+> **The goal is NOT to maximize R², but to capture the correct underlying physics.**
+> 
+> The sharp break is REAL and requires a piecewise model.
+>
+> **📖 [Read detailed explanation: Why numerical fit alone is insufficient](docs/NUMERICAL_FIT_VS_PHYSICAL_REALITY.md)**
 
 ### Quantitative Evidence:
 
