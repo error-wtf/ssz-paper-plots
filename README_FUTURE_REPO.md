@@ -527,13 +527,13 @@ This project is licensed under the Anti-Capitalist Software License.
 
 **Carmen N. Wrede**  
 *Lead Theorist*  
-SSZ Framework, Piecewise Model, G79 Analysis  
-📧 carmen.wrede@example.com
+SSZ Framework, Piecewise Model, G79 Analysis
 
 **Lino P. Casu**  
 *Co-Developer*  
-Mathematical Framework, Metric Formulation  
-📧 lino.casu@example.com
+Mathematical Framework, Metric Formulation
+
+**Contact:** 📧 mail@error.wtf
 
 ### Contributors
 
