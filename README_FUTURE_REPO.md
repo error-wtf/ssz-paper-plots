@@ -15,6 +15,10 @@ This repository contains the complete SSZ (Segmented Spacetime Zones) theory imp
 - **X-ray binaries** (GX 339-4, GRS 1915+105)
 - **ESO professional spectroscopy** (97.9% validation)
 
+### 📸 View All Plots
+
+**👉 [SHOW-ALL-PLOTS.md](SHOW-ALL-PLOTS.md) - Complete gallery with detailed descriptions of all 17 plots!**
+
 ### Key Features
 
 ✅ **100% Peer-Reviewed Data** - All plots backed by published observations  
@@ -23,6 +27,28 @@ This repository contains the complete SSZ (Segmented Spacetime Zones) theory imp
 ✅ **Publication-Ready Plots** - High-resolution figures for papers  
 ✅ **Standalone Operation** - Self-contained with local data  
 ✅ **Cross-Platform** - Windows, Linux, macOS compatible  
+
+---
+
+## 📊 Plot Gallery Preview
+
+### Main Results
+
+<p align="center">
+  <img src="plots/real-data/4_model_compatibility_REAL_DATA.png" width="45%" alt="Model Compatibility" />
+  <img src="plots/sharp-break/1_temperature_profile_with_break.png" width="45%" alt="Sharp Break" />
+  <br>
+  <em>Left: Piecewise 100% vs Cubic 60% compatibility | Right: Sharp break at r_c = 0.9 pc</em>
+</p>
+
+<p align="center">
+  <img src="plots/sharp-break/4_domain_structure_g1_g2.png" width="45%" alt="Domain Structure" />
+  <img src="plots/real-data/7_piecewise_4panel_REAL_DATA.png" width="45%" alt="Piecewise Model" />
+  <br>
+  <em>Left: g₁/g₂ domain structure (4× slope difference) | Right: Complete piecewise dynamics</em>
+</p>
+
+**➡️ [View all 17 plots with full descriptions](SHOW-ALL-PLOTS.md)**  
 
 ---
 
