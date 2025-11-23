@@ -115,6 +115,7 @@ This repository is part of the **SSZ Theory ecosystem**. For extended analysis a
 - 🌌 [emergent-spacetime](https://github.com/error-wtf/emergent-spacetime) - Theoretical foundation
 - 📊 [Segmented-Spacetime-Mass-Projection-Unified-Results](https://github.com/error-wtf/Segmented-Spacetime-Mass-Projection-Unified-Results) - Validation suite
 - 🔭 [SEGMENTED_SPACETIME](https://github.com/error-wtf/SEGMENTED_SPACETIME) - Main theory repo
+- 🌠 [Segmented Spacetime Starmaps](https://github.com/error-wtf/Segmented-Spacetime-Starmaps) - Segmented Spacetime Starmaps
 
 > **Note:** This repository is **standalone** - all necessary data is included. External repos provide additional context.
 
