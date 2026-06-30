@@ -866,7 +866,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -910,7 +910,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -954,7 +954,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -8247,7 +8247,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -8291,7 +8291,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -8581,7 +8581,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -8666,7 +8666,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -8710,7 +8710,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -8754,7 +8754,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -8798,7 +8798,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -8842,7 +8842,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -8886,7 +8886,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -12074,7 +12074,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -12168,7 +12168,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -14222,7 +14222,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -15165,7 +15165,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -15211,7 +15211,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -18947,7 +18947,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -19294,7 +19294,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -20129,7 +20129,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 
@@ -20433,7 +20433,7 @@ Analyzes black hole stability via segment density, resonance maps, and energy ev
 
 #### Calculations & Methods
 
-- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))
+- Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))
 - Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)
 
 

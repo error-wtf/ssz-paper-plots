@@ -255,7 +255,7 @@ class PlotDocumenter:
             methods.append("Effective stress-energy from metric derivatives")
         
         if 'stability' in topics:
-            methods.append("Segment density: Ξ(r) = Ξ_max(1 - exp(-φr/r_s))")
+            methods.append("Segment density: Ξ(r) = Ξ_max(1 - exp(-φr_s / r))")
             methods.append("Bomb evolution: E_{t+1} = E_t(1 + λ - λ²K²)")
         
         if 'phi' in topics:
