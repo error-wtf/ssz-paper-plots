@@ -21,9 +21,9 @@ if sys.platform == 'win32':
 BASE_PATH = Path(__file__).parent
 OUTPUT_DIR = BASE_PATH / "plots" / "additional"
 
-REPO1 = Path(r"E:\clone\Segmented-Spacetime-Mass-Projection-Unified-Results")
-REPO2 = Path(r"E:\clone\g79-cygnus-test")
-REPO3 = Path(r"E:\clone\ssz-metric-pure")
+REPO1 = Path("/home/error/physics/Segmented-Spacetime-Mass-Projection-Unified-Results")
+REPO2 = Path("/home/error/physics/g79-cygnus-tests")
+REPO3 = Path("/home/error/physics/ssz-metric-pure")
 
 def run_silent(script_path, cwd, timeout=120):
     """Führt Script STILL aus (keine Console-Ausgabe)"""
